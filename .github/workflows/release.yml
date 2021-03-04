@@ -4,7 +4,7 @@ on:
   release:
     types:
       - created
-    branches: [st/gh-test]
+    branches: [master]
 
 jobs:
   build:
