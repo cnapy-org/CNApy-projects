@@ -1,0 +1,29 @@
+name: Github Release
+
+on:
+  release:
+    types:
+      - created
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Create archives
+        run: for d in ./*; do
+          if [ -d "$d" ]; then
+          zip "$d".cna $d/*
+          fi
+          done
+
+      - name: Upload assets
+        uses: softprops/action-gh-release@v0.1.5
+        with:
+          # Newline-delimited list of path globs for asset files to upload
+          files: ./*.cna
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
