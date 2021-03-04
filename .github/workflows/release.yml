@@ -13,6 +13,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Install zip
+        run: sudo apt-get install zip
+
       - name: Create archives
         run: for d in ./*; do if [ -d "$d" ]; then zip "$d".cna $d/*; fi; done
 
