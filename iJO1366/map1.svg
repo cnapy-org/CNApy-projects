@@ -18,8 +18,8 @@
    viewBox="-1377 -8 12566.033 13560.945"
    id="svg3004"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="ColiCentralNetwork_Figure1.svg">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="map1.svg">
   <metadata
      id="metadata3908">
     <rdf:RDF>
@@ -43,16 +43,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="995"
+     inkscape:window-width="2049"
+     inkscape:window-height="1227"
      id="namedview3904"
      showgrid="false"
-     inkscape:zoom="3.2796268"
-     inkscape:cx="300.83553"
-     inkscape:cy="82.455895"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.8199067"
+     inkscape:cx="358.68808"
+     inkscape:cy="318.99154"
+     inkscape:window-x="436"
+     inkscape:window-y="70"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g3006"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="true"
@@ -66,8 +66,9 @@
      fit-margin-bottom="5">
     <sodipodi:guide
        orientation="-0.70710678,0.70710678"
-       position="-427.76204,593.34735"
-       id="guide3587" />
+       position="12880.321,-241.51102"
+       id="guide3587"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      style="fill:none;stroke-width:0.025in"
@@ -82,7 +83,7 @@
        font-weight="normal"
        font-size="209"
        id="text3008"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">lac_*D</text>
     <!-- Text -->
     <text
@@ -93,7 +94,7 @@
        font-weight="normal"
        font-size="209"
        id="text3010"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">acald</text>
     <!-- Text -->
     <text
@@ -104,7 +105,7 @@
        font-weight="normal"
        font-size="209"
        id="text3012"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">actp</text>
     <!-- Text -->
     <text
@@ -115,7 +116,7 @@
        font-weight="normal"
        font-size="209"
        id="text3014"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">for</text>
     <!-- Text -->
     <text
@@ -126,7 +127,7 @@
        font-weight="normal"
        font-size="209"
        id="text3016"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">ac</text>
     <!-- Text -->
     <text
@@ -137,7 +138,7 @@
        font-weight="normal"
        font-size="209"
        id="text3018"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">etoh</text>
     <!-- Text -->
     <text
@@ -148,7 +149,7 @@
        font-weight="normal"
        font-size="209"
        id="text3020"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">nadph</text>
     <!-- Text -->
     <text
@@ -159,7 +160,7 @@
        font-weight="normal"
        font-size="209"
        id="text3022"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">nadh</text>
     <!-- Text -->
     <text
@@ -170,7 +171,7 @@
        font-weight="normal"
        font-size="209"
        id="text3024"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">q8h2</text>
     <!-- Text -->
     <text
@@ -181,7 +182,7 @@
        font-weight="normal"
        font-size="209"
        id="text3026"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">h_p</text>
     <!-- Text -->
     <text
@@ -192,7 +193,7 @@
        font-weight="normal"
        font-size="209"
        id="text3028"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">atp</text>
     <!-- Text -->
     <text
@@ -203,7 +204,7 @@
        font-weight="normal"
        font-size="209"
        id="text3030"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">o2</text>
     <!-- Text -->
     <text
@@ -214,110 +215,80 @@
        font-weight="normal"
        font-size="209"
        id="text3032"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">co2,h2</text>
     <!-- Text -->
     <!-- Text -->
     <!-- Text -->
     <text
        xml:space="preserve"
-       x="10420.165"
+       x="10401.83"
        y="10296.54"
        font-style="normal"
        font-weight="normal"
        font-size="209"
        id="text3038"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
-       transform="scale(0.99803636,1.0019675)">etoh_ex</text>
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
+       transform="scale(0.99803636,1.0019675)">ethanol</text>
     <!-- Text -->
     <text
        xml:space="preserve"
-       x="10556.559"
-       y="9922.8984"
+       x="10402.972"
+       y="9928.6377"
        font-style="normal"
        font-weight="normal"
        font-size="209"
        id="text3040"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
-       transform="scale(0.99803636,1.0019675)">ac_ex</text>
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
+       transform="scale(0.99803636,1.0019675)">acetate</text>
     <!-- Text -->
     <text
        xml:space="preserve"
-       x="10520.699"
+       x="10467.254"
        y="8509.1074"
        font-style="normal"
        font-weight="normal"
        font-size="209"
        id="text3042"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
-       transform="scale(0.99803636,1.0019675)">lac_ex</text>
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
+       transform="scale(0.99803636,1.0019675)">lactate</text>
     <!-- Text -->
     <!-- Text -->
-    <text
-       xml:space="preserve"
-       x="10454.857"
-       y="6928.4702"
-       font-style="normal"
-       font-weight="normal"
-       font-size="209"
-       id="text3046"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
-       transform="scale(0.99803636,1.0019675)">co2_ex</text>
     <!-- Text -->
     <text
        xml:space="preserve"
-       x="10321.689"
+       x="10294.967"
        y="5701.957"
        font-style="normal"
        font-weight="normal"
        font-size="209"
        id="text3048"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">Biomass</text>
     <!-- Text -->
-    <text
-       xml:space="preserve"
-       x="10550.931"
-       y="7340.2339"
-       font-style="normal"
-       font-weight="normal"
-       font-size="209"
-       id="text3050"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
-       transform="scale(0.99803636,1.0019675)">h2_ex</text>
+    <!-- Text -->
     <!-- Text -->
     <text
        xml:space="preserve"
-       x="10436.544"
-       y="6506.3457"
-       font-style="normal"
-       font-weight="normal"
-       font-size="209"
-       id="text3052"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
-       transform="scale(0.99803636,1.0019675)">h2o_ex</text>
-    <!-- Text -->
-    <text
-       xml:space="preserve"
-       x="10436.988"
-       y="6092.2261"
+       x="10604.074"
+       y="6103.7041"
        font-style="normal"
        font-weight="normal"
        font-size="209"
        id="text3054"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
-       transform="scale(0.99803636,1.0019675)">h_p_ex</text>
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
+       transform="scale(0.99803636,1.0019675)">H</text>
     <!-- Text -->
     <text
        xml:space="preserve"
-       x="10518.989"
-       y="9221.543"
+       x="10401.371"
+       y="9231.3877"
        font-style="normal"
        font-weight="normal"
        font-size="209"
        id="text3056"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
-       transform="scale(0.99803636,1.0019675)">for_ex</text>
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
+       transform="scale(0.99803636,1.0019675)">formate</text>
     <!-- Text -->
     <text
        xml:space="preserve"
@@ -327,7 +298,7 @@
        font-weight="normal"
        font-size="209"
        id="text3058"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">adp</text>
     <!-- Text -->
     <text
@@ -338,8 +309,8 @@
        font-weight="normal"
        font-size="209"
        id="text3060"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
-       transform="scale(0.99803636,1.0019675)">o2_ex</text>
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
+       transform="scale(0.99803636,1.0019675)">O</text>
     <!-- Text -->
     <text
        xml:space="preserve"
@@ -349,7 +320,7 @@
        font-weight="normal"
        font-size="209"
        id="text3062"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">mql8</text>
     <!-- Arc -->
     <path
@@ -966,17 +937,7 @@
        id="polygon3280"
        transform="matrix(0.98864707,0,0,0.99254132,400.99275,-21.697286)" />
     <!-- Line -->
-    <polyline
-       points="1271,14473 -120,14473 "
-       style="stroke:#000000;stroke-width:12.87220383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-       id="polyline3282"
-       transform="matrix(0.33392997,0,0,0.99254132,-542.77116,6.0653251)" />
     <!-- Arrowhead on XXXpoint 1271 14473 - -239 14473-->
-    <polygon
-       points="-106,14446 -215,14473 -106,14500 -106,14446 "
-       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
-       id="polygon3284"
-       transform="matrix(0.98864707,0,0,0.99254132,-473.81401,6.0653251)" />
     <!-- Line -->
     <polyline
        points="7073,11507 8008,11507 "
@@ -1111,13 +1072,8 @@
        points="-228,14278 1195,14278 "
        style="stroke:#000000;stroke-width:12.79586601;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="polyline3336"
-       transform="matrix(0.34276227,0,0,0.99254132,-613.09122,102.91164)" />
+       transform="matrix(0.23073272,0,0,0.99254132,-433.21382,129.58189)" />
     <!-- Arrowhead on XXXpoint -228 14278 - 1314 14278-->
-    <polygon
-       points="1182,14304 1182,14304 1291,14278 1182,14250 "
-       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
-       id="polygon3338"
-       transform="matrix(0.98864707,0,0,0.99254132,-1405.8974,104.01846)" />
     <!-- Line -->
     <polyline
        points="7019,8475 9964,8475 "
@@ -1144,13 +1100,13 @@
        points="8453,9975 9931,9975 "
        style="stroke:#000000;stroke-width:4.34989929;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="polyline3352"
-       transform="matrix(1.274409,0,0,1.4933169,-2435.2579,-4944.033)" />
+       transform="matrix(1.274409,0,0,1.4933169,-2435.2579,-4997.3736)" />
     <!-- Arrowhead on XXXpoint 8345 9975 - 10051 9975-->
     <polygon
-       points="10028,9975 9919,9947 9919,10001 9919,10001 "
+       points="9919,10001 9919,10001 10028,9975 9919,9947 "
        style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
        id="polygon3354"
-       transform="matrix(0.98864707,0,0,0.99254132,374.03123,52.527788)" />
+       transform="matrix(0.98864707,0,0,0.99254132,374.03123,-0.81271353)" />
     <!-- Arrowhead on XXXpoint 10040 9975 - 8334 9975-->
     <!-- Line -->
     <!-- Arrowhead on XXXpoint 6519 11442 - 5923 11077-->
@@ -1189,7 +1145,7 @@
        font-weight="normal"
        font-size="209"
        id="text3370"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">pep</text>
     <!-- Text -->
     <text
@@ -1200,7 +1156,7 @@
        font-weight="normal"
        font-size="209"
        id="text3372"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">2KD6PG</text>
     <!-- Text -->
     <text
@@ -1211,7 +1167,7 @@
        font-weight="normal"
        font-size="209"
        id="text3374"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">pyr</text>
     <!-- Text -->
     <text
@@ -1222,7 +1178,7 @@
        font-weight="normal"
        font-size="209"
        id="text3376"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">akg</text>
     <!-- Text -->
     <text
@@ -1233,7 +1189,7 @@
        font-weight="normal"
        font-size="209"
        id="text3378"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">fum</text>
     <!-- Text -->
     <text
@@ -1244,7 +1200,7 @@
        font-weight="normal"
        font-size="209"
        id="text3380"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">oaa</text>
     <!-- Text -->
     <text
@@ -1255,7 +1211,7 @@
        font-weight="normal"
        font-size="209"
        id="text3382"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">succoa</text>
     <!-- Text -->
     <text
@@ -1266,7 +1222,7 @@
        font-weight="normal"
        font-size="209"
        id="text3384"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">accoa</text>
     <!-- Text -->
     <text
@@ -1277,7 +1233,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">dhap</text>
     <!-- Text -->
     <text
@@ -1288,7 +1244,7 @@
        font-weight="normal"
        font-size="209"
        id="text3388"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">2pg</text>
     <!-- Text -->
     <text
@@ -1299,7 +1255,7 @@
        font-weight="normal"
        font-size="209"
        id="text3390"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">3pg</text>
     <!-- Text -->
     <text
@@ -1310,7 +1266,7 @@
        font-weight="normal"
        font-size="209"
        id="text3392"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">g6p</text>
     <!-- Text -->
     <text
@@ -1321,7 +1277,7 @@
        font-weight="normal"
        font-size="209"
        id="text3394"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">f6p</text>
     <!-- Text -->
     <text
@@ -1332,7 +1288,7 @@
        font-weight="normal"
        font-size="209"
        id="text3396"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">fdp</text>
     <!-- Text -->
     <text
@@ -1343,7 +1299,7 @@
        font-weight="normal"
        font-size="209"
        id="text3398"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">r5p</text>
     <!-- Text -->
     <text
@@ -1354,7 +1310,7 @@
        font-weight="normal"
        font-size="209"
        id="text3400"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">g3p</text>
     <!-- Text -->
     <text
@@ -1365,7 +1321,7 @@
        font-weight="normal"
        font-size="209"
        id="text3402"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">dhap</text>
     <!-- Text -->
     <text
@@ -1376,7 +1332,7 @@
        font-weight="normal"
        font-size="209"
        id="text3404"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">f6p</text>
     <!-- Text -->
     <!-- Text -->
@@ -1388,7 +1344,7 @@
        font-weight="normal"
        font-size="209"
        id="text3408"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">e4p</text>
     <!-- Text -->
     <text
@@ -1399,7 +1355,7 @@
        font-weight="normal"
        font-size="209"
        id="text3410"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">g3p</text>
     <!-- Text -->
     <text
@@ -1410,7 +1366,7 @@
        font-weight="normal"
        font-size="209"
        id="text3412"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">ru5p_*D</text>
     <!-- Text -->
     <text
@@ -1421,7 +1377,7 @@
        font-weight="normal"
        font-size="131"
        id="text3414"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">pgi</text>
     <!-- Text -->
     <text
@@ -1432,7 +1388,7 @@
        font-weight="normal"
        font-size="131"
        id="text3416"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">pgl</text>
     <!-- Text -->
     <text
@@ -1443,7 +1399,7 @@
        font-weight="normal"
        font-size="131"
        id="text3418"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">zwf</text>
     <!-- Text -->
     <text
@@ -1454,7 +1410,7 @@
        font-weight="normal"
        font-size="131"
        id="text3420"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">gnd</text>
     <!-- Text -->
     <text
@@ -1465,7 +1421,7 @@
        font-weight="normal"
        font-size="131"
        id="text3422"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">rpe</text>
     <!-- Text -->
     <text
@@ -1476,7 +1432,7 @@
        font-weight="normal"
        font-size="131"
        id="text3424"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">rpi</text>
     <!-- Text -->
     <text
@@ -1487,7 +1443,7 @@
        font-weight="normal"
        font-size="131"
        id="text3426"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">edd</text>
     <!-- Text -->
     <text
@@ -1498,7 +1454,7 @@
        font-weight="normal"
        font-size="131"
        id="text3428"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">eda</text>
     <!-- Text -->
     <text
@@ -1509,7 +1465,7 @@
        font-weight="normal"
        font-size="131"
        id="text3430"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">fbp</text>
     <!-- Text -->
     <text
@@ -1520,7 +1476,7 @@
        font-weight="normal"
        font-size="131"
        id="text3432"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">tpi</text>
     <!-- Text -->
     <text
@@ -1531,7 +1487,7 @@
        font-weight="normal"
        font-size="131"
        id="text3434"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">mgs</text>
     <!-- Text -->
     <text
@@ -1542,7 +1498,7 @@
        font-weight="normal"
        font-size="131"
        id="text3436"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">pgk</text>
     <!-- Text -->
     <text
@@ -1553,7 +1509,7 @@
        font-weight="normal"
        font-size="131"
        id="text3438"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">eno</text>
     <!-- Text -->
     <text
@@ -1564,7 +1520,7 @@
        font-weight="normal"
        font-size="131"
        id="text3440"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">pps</text>
     <!-- Text -->
     <text
@@ -1575,7 +1531,7 @@
        font-weight="normal"
        font-size="131"
        id="text3442"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">ppc</text>
     <!-- Text -->
     <text
@@ -1586,7 +1542,7 @@
        font-weight="normal"
        font-size="131"
        id="text3444"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">pts</text>
     <!-- Text -->
     <text
@@ -1597,7 +1553,7 @@
        font-weight="normal"
        font-size="131"
        id="text3446"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">pflB</text>
     <!-- Text -->
     <text
@@ -1608,7 +1564,7 @@
        font-weight="normal"
        font-size="131"
        id="text3448"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">poxB</text>
     <!-- Text -->
     <text
@@ -1619,7 +1575,7 @@
        font-weight="normal"
        font-size="131"
        id="text3450"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">mdh</text>
     <!-- Text -->
     <text
@@ -1630,7 +1586,7 @@
        font-weight="normal"
        font-size="131"
        id="text3452"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">ldhA</text>
     <!-- Text -->
     <text
@@ -1641,7 +1597,7 @@
        font-weight="normal"
        font-size="131"
        id="text3454"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">gltA</text>
     <!-- Text -->
     <text
@@ -1652,7 +1608,7 @@
        font-weight="normal"
        font-size="131"
        id="text3456"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">sucAB</text>
     <!-- Text -->
     <text
@@ -1663,7 +1619,7 @@
        font-weight="normal"
        font-size="131"
        id="text3458"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">sucCD</text>
     <!-- Text -->
     <text
@@ -1674,7 +1630,7 @@
        font-weight="normal"
        font-size="131"
        id="text3460"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">sdh</text>
     <!-- Text -->
     <text
@@ -1685,7 +1641,7 @@
        font-weight="normal"
        font-size="131"
        id="text3462"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">frd</text>
     <!-- Text -->
     <text
@@ -1696,7 +1652,7 @@
        font-weight="normal"
        font-size="131"
        id="text3464"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">fum</text>
     <!-- Text -->
     <text
@@ -1707,7 +1663,7 @@
        font-weight="normal"
        font-size="131"
        id="text3466"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">aceA</text>
     <!-- Text -->
     <text
@@ -1718,7 +1674,7 @@
        font-weight="normal"
        font-size="131"
        id="text3468"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">aceB</text>
     <!-- Text -->
     <!-- Text -->
@@ -1730,7 +1686,7 @@
        font-weight="normal"
        font-size="131"
        id="text3472"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">pdh</text>
     <!-- Text -->
     <text
@@ -1741,7 +1697,7 @@
        font-weight="normal"
        font-size="131"
        id="text3474"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">acdh</text>
     <!-- Text -->
     <text
@@ -1752,7 +1708,7 @@
        font-weight="normal"
        font-size="131"
        id="text3476"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">pta</text>
     <!-- Text -->
     <text
@@ -1763,7 +1719,7 @@
        font-weight="normal"
        font-size="131"
        id="text3478"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">ackA</text>
     <!-- Text -->
     <text
@@ -1774,7 +1730,7 @@
        font-weight="normal"
        font-size="131"
        id="text3480"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">adh</text>
     <!-- Text -->
     <text
@@ -1785,7 +1741,7 @@
        font-weight="normal"
        font-size="131"
        id="text3482"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">tkt</text>
     <!-- Text -->
     <text
@@ -1796,7 +1752,7 @@
        font-weight="normal"
        font-size="131"
        id="text3484"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">talb</text>
     <!-- Text -->
     <text
@@ -1807,7 +1763,7 @@
        font-weight="normal"
        font-size="131"
        id="text3486"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">glk</text>
     <!-- Text -->
     <text
@@ -1818,7 +1774,7 @@
        font-weight="normal"
        font-size="131"
        id="text3488"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">tkt</text>
     <!-- Text -->
     <text
@@ -1829,7 +1785,7 @@
        font-weight="normal"
        font-size="131"
        id="text3490"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">gap</text>
     <!-- Text -->
     <text
@@ -1840,7 +1796,7 @@
        font-weight="normal"
        font-size="131"
        id="text3492"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">pfk</text>
     <!-- Text -->
     <text
@@ -1851,7 +1807,7 @@
        font-weight="normal"
        font-size="131"
        id="text3494"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">fba</text>
     <!-- Text -->
     <text
@@ -1862,7 +1818,7 @@
        font-weight="normal"
        font-size="131"
        id="text3496"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">gpm</text>
     <!-- Text -->
     <text
@@ -1873,7 +1829,7 @@
        font-weight="normal"
        font-size="131"
        id="text3498"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">glo</text>
     <!-- Text -->
     <text
@@ -1884,7 +1840,7 @@
        font-weight="normal"
        font-size="131"
        id="text3500"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">pck</text>
     <!-- Text -->
     <text
@@ -1895,7 +1851,7 @@
        font-weight="normal"
        font-size="131"
        id="text3502"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">pyk</text>
     <!-- Text -->
     <text
@@ -1906,7 +1862,7 @@
        font-weight="normal"
        font-size="209"
        id="text3504"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">succ</text>
     <!-- Text -->
     <text
@@ -1917,7 +1873,7 @@
        font-weight="normal"
        font-size="131"
        id="text3506"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">focA</text>
     <!-- Text -->
     <text
@@ -1928,7 +1884,7 @@
        font-weight="normal"
        font-size="209"
        id="text3508"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">glyc3p</text>
     <!-- Text -->
     <text
@@ -1939,7 +1895,7 @@
        font-weight="normal"
        font-size="209"
        id="text3510"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">dha</text>
     <!-- Text -->
     <text
@@ -1950,7 +1906,7 @@
        font-weight="normal"
        font-size="209"
        id="text3512"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">glyc</text>
     <!-- Text -->
     <text
@@ -1961,7 +1917,7 @@
        font-weight="normal"
        font-size="209"
        id="text3514"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">g3p</text>
     <!-- Text -->
     <text
@@ -1972,7 +1928,7 @@
        font-weight="normal"
        font-size="131"
        id="text3516"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">mae</text>
     <!-- Text -->
     <text
@@ -1983,30 +1939,30 @@
        font-weight="normal"
        font-size="209"
        id="text3518"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
-       transform="scale(0.99803636,1.0019675)">glyc_ex</text>
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
+       transform="scale(0.99803636,1.0019675)">glycerol</text>
     <!-- Text -->
     <text
        xml:space="preserve"
-       x="-1403.7866"
+       x="-1265.3772"
        y="1932.0565"
        font-style="normal"
        font-weight="normal"
        font-size="209"
        id="text3520"
-       style="font-size:199.86018372px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
-       transform="scale(0.96345491,1.0379313)">glc_*D_ex</text>
+       style="font-style:normal;font-weight:normal;font-size:199.86018372px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
+       transform="scale(0.96345491,1.0379313)">glucose</text>
     <!-- Text -->
     <text
        xml:space="preserve"
-       x="-1396.6018"
-       y="13902.65"
+       x="-1434.8438"
+       y="13922.357"
        font-style="normal"
        font-weight="normal"
        font-size="209"
        id="text3522"
-       style="font-size:201.11891174px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
-       transform="scale(0.96952277,1.0314353)">succ_ex</text>
+       style="font-style:normal;font-weight:normal;font-size:201.11891174px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
+       transform="scale(0.96952277,1.0314353)">succinate</text>
     <!-- Text -->
     <text
        xml:space="preserve"
@@ -2016,7 +1972,7 @@
        font-weight="normal"
        font-size="209"
        id="text3524"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">cit</text>
     <!-- Text -->
     <text
@@ -2027,7 +1983,7 @@
        font-weight="normal"
        font-size="131"
        id="text3526"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">acn</text>
     <!-- Text -->
     <text
@@ -2038,7 +1994,7 @@
        font-weight="normal"
        font-size="209"
        id="text3528"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">acon_*C</text>
     <!-- Text -->
     <text
@@ -2049,7 +2005,7 @@
        font-weight="normal"
        font-size="209"
        id="text3530"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">icit</text>
     <!-- Text -->
     <text
@@ -2060,7 +2016,7 @@
        font-weight="normal"
        font-size="131"
        id="text3532"
-       style="font-size:129.76759338px;font-style:italic;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:italic;font-weight:normal;font-size:129.76759338px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">icdA</text>
     <!-- Text -->
     <text
@@ -2071,7 +2027,7 @@
        font-weight="normal"
        font-size="209"
        id="text3534"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">glc_*D</text>
     <!-- Text -->
     <text
@@ -2082,7 +2038,7 @@
        font-weight="normal"
        font-size="209"
        id="text3536"
-       style="font-size:196.53662109px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:196.53662109px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.94743318,1.0554834)">glc_*D_p</text>
     <!-- Line -->
     <polyline
@@ -2665,94 +2621,70 @@
        transform="matrix(0.98864707,0,0,0.99254132,859.05043,831.15394)" />
     <!-- Line: box -->
     <rect
-       x="10368.355"
-       y="10139.195"
-       width="711.79224"
-       height="247.67795"
-       rx="57.244671"
-       style="stroke:#000000;stroke-width:4.54583836;stroke-linecap:butt;stroke-linejoin:miter"
+       x="10326.866"
+       y="10112.923"
+       width="786.34845"
+       height="256.53958"
+       rx="63.240726"
+       style="stroke:#000000;stroke-width:4.86271143;stroke-linecap:butt;stroke-linejoin:miter"
        id="rect3772" />
     <!-- Line: box -->
     <rect
-       x="10497.181"
-       y="9755.5947"
-       width="572.7157"
-       height="287.05878"
-       rx="49.461811"
-       style="stroke:#000000;stroke-width:4.54907608;stroke-linecap:butt;stroke-linejoin:miter"
+       x="10327.437"
+       y="9773.9248"
+       width="780.35516"
+       height="228.38226"
+       rx="67.394318"
+       style="stroke:#000000;stroke-width:4.73637009;stroke-linecap:butt;stroke-linejoin:miter"
        id="rect3774" />
     <!-- Line: box -->
     <rect
-       x="10464.628"
-       y="8307.4844"
-       width="618.65155"
-       height="323.04843"
-       rx="51.554298"
-       style="stroke:#000000;stroke-width:4.9268465;stroke-linecap:butt;stroke-linejoin:miter"
+       x="10411.622"
+       y="8325.2256"
+       width="696.2016"
+       height="253.70264"
+       rx="58.016808"
+       style="stroke:#000000;stroke-width:4.63171864;stroke-linecap:butt;stroke-linejoin:miter"
        id="rect3776" />
     <!-- Line: box -->
     <rect
-       x="-1369.3783"
-       y="6355.9326"
-       width="865.1496"
-       height="322.57593"
-       rx="72.095795"
-       style="stroke:#000000;stroke-width:5.82202053;stroke-linecap:butt;stroke-linejoin:miter"
+       x="-1369.5773"
+       y="6378.7344"
+       width="865.54767"
+       height="279.84702"
+       rx="72.12896"
+       style="stroke:#000000;stroke-width:5.42397833;stroke-linecap:butt;stroke-linejoin:miter"
        id="rect3778" />
     <!-- Line: box -->
     <rect
-       x="-1363.5178"
-       y="14131.554"
-       width="655.31818"
-       height="323.37399"
-       rx="50.976639"
-       style="stroke:#000000;stroke-width:4.90163422;stroke-linecap:butt;stroke-linejoin:miter"
+       x="-1426.1058"
+       y="14168.104"
+       width="856.68054"
+       height="238.07983"
+       rx="66.640434"
+       style="stroke:#000000;stroke-width:4.80875921;stroke-linecap:butt;stroke-linejoin:miter"
        id="rect3780" />
     <!-- Line: box -->
     <!-- Line: box -->
-    <rect
-       x="10370.543"
-       y="6715.5669"
-       width="708.44501"
-       height="323.04953"
-       rx="63.567673"
-       style="stroke:#000000;stroke-width:5.47085857;stroke-linecap:butt;stroke-linejoin:miter"
-       id="rect3784" />
     <!-- Line: box -->
     <rect
-       x="10263.774"
-       y="5486.8203"
-       width="806.84991"
-       height="322.68704"
-       rx="72.397392"
-       style="stroke:#000000;stroke-width:5.83518934;stroke-linecap:butt;stroke-linejoin:miter"
+       x="10237.193"
+       y="5486.9097"
+       width="857.49683"
+       height="322.50836"
+       rx="76.941864"
+       style="stroke:#000000;stroke-width:6.01387739;stroke-linecap:butt;stroke-linejoin:miter"
        id="rect3786" />
     <!-- Line: box -->
-    <rect
-       x="10468.286"
-       y="7159.5225"
-       width="620.56598"
-       height="284.0921"
-       rx="55.682426"
-       style="stroke:#000000;stroke-width:4.37768745;stroke-linecap:butt;stroke-linejoin:miter"
-       id="rect3788" />
+    <!-- Line: box -->
     <!-- Line: box -->
     <rect
-       x="10290.625"
-       y="6299.9712"
-       width="781.6626"
-       height="299.66254"
-       rx="70.137383"
-       style="stroke:#000000;stroke-width:5.0459981;stroke-linecap:butt;stroke-linejoin:miter"
-       id="rect3790" />
-    <!-- Line: box -->
-    <rect
-       x="10298.773"
-       y="5893.7637"
-       width="772.90955"
-       height="322.80774"
-       rx="69.351982"
-       style="stroke:#000000;stroke-width:5.7122097;stroke-linecap:butt;stroke-linejoin:miter"
+       x="10547.427"
+       y="5929.6582"
+       width="232.47525"
+       height="248.14473"
+       rx="20.859648"
+       style="stroke:#000000;stroke-width:2.74668431;stroke-linecap:butt;stroke-linejoin:miter"
        id="rect3792" />
     <!-- Line -->
     <polyline
@@ -2761,29 +2693,24 @@
        id="polyline3794"
        transform="matrix(3.7110122,0,0,0.99254132,356.40966,525.1931)" />
     <!-- Arrowhead on XXXpoint -325 5998 - 369 5998-->
-    <polygon
-       points="237,6024 346,5998 237,5970 237,6024 "
-       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
-       id="polygon3796"
-       transform="matrix(0.98864707,0,0,0.99254132,1031.1094,525.1931)" />
     <!-- Arrowhead on XXXpoint 358 5998 - -336 5998-->
     <!-- Line: box -->
     <rect
-       x="10458.783"
-       y="9012.3779"
-       width="628.10663"
-       height="317.6698"
-       rx="56.359039"
-       style="stroke:#000000;stroke-width:4.86712694;stroke-linecap:butt;stroke-linejoin:miter"
+       x="10330.842"
+       y="9055.6562"
+       width="778.45276"
+       height="247.76199"
+       rx="69.849373"
+       style="stroke:#000000;stroke-width:4.7852149;stroke-linecap:butt;stroke-linejoin:miter"
        id="rect3800" />
     <!-- Line: box -->
     <rect
-       x="10485.766"
-       y="11878.827"
-       width="583.29327"
-       height="284.11441"
-       rx="104.79974"
-       style="stroke:#000000;stroke-width:6.58763456;stroke-linecap:butt;stroke-linejoin:miter"
+       x="10484.898"
+       y="11877.96"
+       width="314.76456"
+       height="285.84805"
+       rx="56.553448"
+       style="stroke:#000000;stroke-width:4.85400152;stroke-linecap:butt;stroke-linejoin:miter"
        id="rect3802" />
     <!-- Line -->
     <polyline
@@ -2819,7 +2746,7 @@
        font-weight="normal"
        font-size="148"
        id="text3814"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">atp</text>
     <!-- Text -->
     <text
@@ -2830,7 +2757,7 @@
        font-weight="normal"
        font-size="148"
        id="text3816"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">co2,</text>
     <!-- Text -->
     <text
@@ -2841,7 +2768,7 @@
        font-weight="normal"
        font-size="209"
        id="text3818"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">mal_*L</text>
     <!-- Text -->
     <text
@@ -2852,7 +2779,7 @@
        font-weight="normal"
        font-size="148"
        id="text3820"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">co2</text>
     <!-- Text -->
     <text
@@ -2863,7 +2790,7 @@
        font-weight="normal"
        font-size="148"
        id="text3822"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">nadh</text>
     <!-- Text -->
     <text
@@ -2874,7 +2801,7 @@
        font-weight="normal"
        font-size="148"
        id="text3824"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">q8h2</text>
     <!-- Text -->
     <text
@@ -2885,7 +2812,7 @@
        font-weight="normal"
        font-size="148"
        id="text3826"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">atp</text>
     <!-- Text -->
     <text
@@ -2896,7 +2823,7 @@
        font-weight="normal"
        font-size="148"
        id="text3828"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">co2,</text>
     <!-- Text -->
     <text
@@ -2907,7 +2834,7 @@
        font-weight="normal"
        font-size="148"
        id="text3830"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">co2, </text>
     <!-- Text -->
     <text
@@ -2918,7 +2845,7 @@
        font-weight="normal"
        font-size="148"
        id="text3832"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">nadh</text>
     <!-- Text -->
     <text
@@ -2929,7 +2856,7 @@
        font-weight="normal"
        font-size="148"
        id="text3834"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">co2,q8h2</text>
     <!-- Text -->
     <text
@@ -2940,7 +2867,7 @@
        font-weight="normal"
        font-size="148"
        id="text3836"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">atp</text>
     <!-- Text -->
     <text
@@ -2951,7 +2878,7 @@
        font-weight="normal"
        font-size="209"
        id="text3838"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">glx</text>
     <!-- Text -->
     <text
@@ -2962,7 +2889,7 @@
        font-weight="normal"
        font-size="148"
        id="text3840"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">atp</text>
     <!-- Text -->
     <text
@@ -2973,7 +2900,7 @@
        font-weight="normal"
        font-size="209"
        id="text3842"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">13dpg</text>
     <!-- Text -->
     <text
@@ -2984,7 +2911,7 @@
        font-weight="normal"
        font-size="209"
        id="text3844"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">s7p</text>
     <!-- Text -->
     <text
@@ -2995,7 +2922,7 @@
        font-weight="normal"
        font-size="148"
        id="text3846"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">nadph</text>
     <!-- Text -->
     <text
@@ -3006,7 +2933,7 @@
        font-weight="normal"
        font-size="209"
        id="text3848"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">6pgl</text>
     <!-- Text -->
     <text
@@ -3017,7 +2944,7 @@
        font-weight="normal"
        font-size="209"
        id="text3850"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">6pgc</text>
     <!-- Text -->
     <text
@@ -3028,7 +2955,7 @@
        font-weight="normal"
        font-size="148"
        id="text3852"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">nadph,co2</text>
     <!-- Text -->
     <text
@@ -3039,7 +2966,7 @@
        font-weight="normal"
        font-size="148"
        id="text3854"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">atp</text>
     <!-- Text -->
     <text
@@ -3050,7 +2977,7 @@
        font-weight="normal"
        font-size="148"
        id="text3856"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">pyr</text>
     <!-- Text -->
     <text
@@ -3061,7 +2988,7 @@
        font-weight="normal"
        font-size="148"
        id="text3858"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">pep</text>
     <!-- Text -->
     <text
@@ -3072,7 +2999,7 @@
        font-weight="normal"
        font-size="148"
        id="text3860"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">atp</text>
     <!-- Text -->
     <text
@@ -3083,7 +3010,7 @@
        font-weight="normal"
        font-size="148"
        id="text3862"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">nadh</text>
     <!-- Text -->
     <text
@@ -3094,7 +3021,7 @@
        font-weight="normal"
        font-size="148"
        id="text3864"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">co2</text>
     <!-- Text -->
     <text
@@ -3105,7 +3032,7 @@
        font-weight="normal"
        font-size="148"
        id="text3866"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">atp</text>
     <!-- Text -->
     <text
@@ -3116,7 +3043,7 @@
        font-weight="normal"
        font-size="148"
        id="text3868"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">nadh</text>
     <!-- Text -->
     <!-- Text -->
@@ -3129,7 +3056,7 @@
        font-weight="normal"
        font-size="148"
        id="text3874"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">q8h2</text>
     <!-- Text -->
     <text
@@ -3140,7 +3067,7 @@
        font-weight="normal"
        font-size="148"
        id="text3876"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">nadph</text>
     <!-- Text -->
     <text
@@ -3151,7 +3078,7 @@
        font-weight="normal"
        font-size="148"
        id="text3878"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">co2,nadh</text>
     <!-- Text -->
     <text
@@ -3162,7 +3089,7 @@
        font-weight="normal"
        font-size="148"
        id="text3880"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">co2,nadph</text>
     <!-- Text -->
     <text
@@ -3173,7 +3100,7 @@
        font-weight="normal"
        font-size="148"
        id="text3882"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">atp</text>
     <!-- Text -->
     <text
@@ -3184,7 +3111,7 @@
        font-weight="normal"
        font-size="148"
        id="text3884"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">amp</text>
     <!-- Text -->
     <!-- Text -->
@@ -3196,7 +3123,7 @@
        font-weight="normal"
        font-size="148"
        id="text3888"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">amp</text>
     <!-- Text -->
     <text
@@ -3207,7 +3134,7 @@
        font-weight="normal"
        font-size="148"
        id="text3890"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">adp</text>
     <!-- Text -->
     <text
@@ -3218,7 +3145,7 @@
        font-weight="normal"
        font-size="148"
        id="text3892"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803635,1.0019675)">adp</text>
     <!-- Text -->
     <!-- Text -->
@@ -3230,7 +3157,7 @@
        font-weight="normal"
        font-size="148"
        id="text3896"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">atp</text>
     <!-- Text -->
     <text
@@ -3241,12 +3168,12 @@
        font-weight="normal"
        font-size="148"
        id="text3898"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000"
        transform="scale(0.99803636,1.0019675)">mql8</text>
     <!-- Text -->
     <!-- Text -->
     <text
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:none;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:none;stroke-width:0.025in"
        xml:space="preserve"
        x="6971.9409"
        y="6978.1533"
@@ -3257,14 +3184,14 @@
        transform="scale(0.99803635,1.0019675)">DHAP</text>
     <text
        xml:space="preserve"
-       x="-500.95352"
-       y="1888.2953"
+       x="-789.03235"
+       y="1727.6041"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       transform="scale(0.99803636,1.0019675)">GlcUp</text>
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       transform="scale(0.99803636,1.0019675)">EX_glc__D_e</text>
     <text
        xml:space="preserve"
        x="670.44385"
@@ -3273,8 +3200,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">GLCt2pp</text>
     <text
        xml:space="preserve"
@@ -3284,8 +3210,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-0"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">GLCptspp</text>
     <text
        xml:space="preserve"
@@ -3295,8 +3220,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-02"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">Hex1</text>
     <text
        xml:space="preserve"
@@ -3306,8 +3230,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">G6PDH2r</text>
     <polyline
        transform="matrix(0.98864707,0,0,0.99254132,1599.8031,1670.6772)"
@@ -3322,8 +3245,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">PGL</text>
     <text
        xml:space="preserve"
@@ -3333,8 +3255,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-9"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="12.986446"
        inkscape:transform-center-y="-31.963201"
        transform="scale(0.99803636,1.0019675)">GND</text>
@@ -3346,8 +3267,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-9-7"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="173.17616"
        inkscape:transform-center-y="-426.23322"
        transform="scale(0.99803636,1.0019675)">EDD</text>
@@ -3359,8 +3279,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-9-4"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="173.17616"
        inkscape:transform-center-y="-426.23323"
        transform="scale(0.99803636,1.0019675)">RPE</text>
@@ -3372,8 +3291,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-9-4-7"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="2309.3256"
        inkscape:transform-center-y="-5683.8735"
        transform="scale(0.99803636,1.0019675)">RPI</text>
@@ -3385,8 +3303,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-9-4-0"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="2309.3256"
        inkscape:transform-center-y="-5683.8735"
        transform="scale(0.99803636,1.0019675)">TKT1</text>
@@ -3398,8 +3315,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-9-4-0-8"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="30795.147"
        inkscape:transform-center-y="-75795.167"
        transform="scale(0.99803636,1.0019675)">TALA</text>
@@ -3411,8 +3327,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-9-4-0-6"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="30795.147"
        inkscape:transform-center-y="-75795.167"
        transform="scale(0.99803636,1.0019675)">TKT2</text>
@@ -3424,8 +3339,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">PGI</text>
     <text
        xml:space="preserve"
@@ -3435,8 +3349,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">F6PA</text>
     <text
        xml:space="preserve"
@@ -3446,8 +3359,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">PFK</text>
     <text
        xml:space="preserve"
@@ -3457,8 +3369,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-5"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">FBP</text>
     <text
        xml:space="preserve"
@@ -3468,8 +3379,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">FBA</text>
     <text
        xml:space="preserve"
@@ -3479,8 +3389,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-3-1"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">GLYCDx</text>
     <text
        xml:space="preserve"
@@ -3490,8 +3399,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">TPI</text>
     <text
        xml:space="preserve"
@@ -3501,8 +3409,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-3-1-1"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">G3PD5</text>
     <polyline
        transform="matrix(1.1416496,0,0,0.54219924,-532.85742,5044.7727)"
@@ -3517,8 +3424,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-3-1-1-0"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">G3PD2</text>
     <text
        xml:space="preserve"
@@ -3528,8 +3434,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-3-1-0"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">GLYK</text>
     <text
        xml:space="preserve"
@@ -3539,9 +3444,8 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-3-1-0-4"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803636,1.0019675)">GlycUp</text>
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       transform="scale(0.99803636,1.0019675)">EX_glyc_e</text>
     <text
        xml:space="preserve"
        x="6528.957"
@@ -3550,8 +3454,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-9-7-9"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="2309.3256"
        inkscape:transform-center-y="-5683.8736"
        transform="scale(0.99803635,1.0019675)">EDA</text>
@@ -3563,8 +3466,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">GAPD</text>
     <text
        xml:space="preserve"
@@ -3574,8 +3476,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">PGK</text>
     <text
        xml:space="preserve"
@@ -3585,8 +3486,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">PGM</text>
     <text
        xml:space="preserve"
@@ -3596,8 +3496,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">ENO</text>
     <polyline
        transform="matrix(1.6591717,0,0,-0.33634051,1615.7889,16310.431)"
@@ -3637,8 +3536,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">PPC</text>
     <text
        xml:space="preserve"
@@ -3648,8 +3546,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-0"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">PPCK</text>
     <text
        xml:space="preserve"
@@ -3659,8 +3556,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">PYK</text>
     <text
        xml:space="preserve"
@@ -3670,8 +3566,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">PPS</text>
     <text
        xml:space="preserve"
@@ -3681,8 +3576,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-5"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">PDH</text>
     <text
        xml:space="preserve"
@@ -3692,8 +3586,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-5-5"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">ME1</text>
     <text
        xml:space="preserve"
@@ -3703,8 +3596,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-5-5-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">ME2</text>
     <text
        xml:space="preserve"
@@ -3714,8 +3606,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">LDH_D</text>
     <text
        xml:space="preserve"
@@ -3725,8 +3616,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">MGSA</text>
     <polyline
        transform="matrix(0.98864707,0,0,0.92355893,431.16304,-31.313238)"
@@ -3746,7 +3636,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-8"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">mthgxl</text>
     <text
        xml:space="preserve"
@@ -3756,20 +3646,18 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">GLYOX3</text>
     <text
        xml:space="preserve"
-       x="8791.627"
-       y="8573.1377"
+       x="8313.416"
+       y="8596.0938"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803636,1.0019675)">LacEx</text>
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       transform="scale(0.99803636,1.0019675)">EX_lac__D_e</text>
     <text
        xml:space="preserve"
        x="4027.9292"
@@ -3778,8 +3666,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">PFL</text>
     <text
        xml:space="preserve"
@@ -3789,20 +3676,18 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-8"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">FHL</text>
     <text
        xml:space="preserve"
-       x="8683.5781"
-       y="9281.8662"
+       x="9818.6084"
+       y="9006.3945"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803635,1.0019675)">FormEx</text>
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       transform="scale(0.99803636,1.0019675)">EX_for_e</text>
     <text
        xml:space="preserve"
        x="4320.2446"
@@ -3811,8 +3696,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">POX</text>
     <text
        xml:space="preserve"
@@ -3822,8 +3706,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">PTAr</text>
     <text
        xml:space="preserve"
@@ -3833,8 +3716,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-9.1630632"
        inkscape:transform-center-y="19.8508"
        transform="scale(0.99803635,1.0019675)">ACALD</text>
@@ -3846,8 +3728,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-5"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-122.1907"
        inkscape:transform-center-y="264.7132"
        transform="scale(0.99803635,1.0019675)">ALCD2x</text>
@@ -3883,54 +3764,28 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-5"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">ACKr</text>
     <text
        xml:space="preserve"
-       x="8790.6631"
-       y="10375.551"
+       x="9845.0312"
+       y="10461.636"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7-3-5"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803635,1.0019675)">EthEx</text>
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       transform="scale(0.99803636,1.0019675)">EX_etoh_e</text>
     <text
        xml:space="preserve"
-       x="8841.1465"
-       y="10045.229"
+       x="9826.376"
+       y="9762.4346"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7-3-5-8"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803636,1.0019675)">AcEx</text>
-    <text
-       xml:space="preserve"
-       x="8820.6475"
-       y="9805.0234"
-       font-style="normal"
-       font-weight="normal"
-       font-size="148"
-       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7-3-5-8-7"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       inkscape:transform-center-x="8.198499"
-       inkscape:transform-center-y="21.787482"
-       transform="scale(0.99803635,1.0019675)">AcUp</text>
-    <polyline
-       transform="matrix(1.226539,0,0,1.4936276,-1907.747,-5022.6427)"
-       points="8453,9975 9931,9975 "
-       style="fill:none;stroke:#000000;stroke-width:4.43351078;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-       id="polyline3352-6" />
-    <polygon
-       transform="matrix(0.98864707,0,0,0.99254132,92.136112,-32.898094)"
-       points="8466,10001 8466,9947 8466,9947 8357,9975 "
-       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
-       id="polygon3356-6" />
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       transform="scale(0.99803636,1.0019675)">EX_ac_e</text>
     <text
        xml:space="preserve"
        x="3532.9705"
@@ -3939,8 +3794,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-94"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">CS</text>
     <text
        xml:space="preserve"
@@ -3950,8 +3804,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-94-5"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">MALS</text>
     <text
        xml:space="preserve"
@@ -3961,8 +3814,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-94-5-8"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">ICL</text>
     <text
        xml:space="preserve"
@@ -3972,8 +3824,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-122.19069"
        inkscape:transform-center-y="264.71324"
        transform="scale(0.99803635,1.0019675)">ACONTa</text>
@@ -3985,8 +3836,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-1629.4282"
        inkscape:transform-center-y="3529.9845"
        transform="scale(0.99803635,1.0019675)">ACONTb</text>
@@ -3998,8 +3848,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-21728.63"
        inkscape:transform-center-y="47072.787"
        transform="scale(0.99803635,1.0019675)">ICDHyr</text>
@@ -4011,8 +3860,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-289754"
        inkscape:transform-center-y="627721.51"
        transform="scale(0.99803635,1.0019675)">AKGDH</text>
@@ -4024,8 +3872,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-3863905.9"
        inkscape:transform-center-y="8370745.1"
        transform="scale(0.99803635,1.0019675)">SUCOAS</text>
@@ -4037,8 +3884,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-94-5-2"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">MDH</text>
     <text
        xml:space="preserve"
@@ -4048,8 +3894,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-94-5-2-4"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">FUM</text>
     <text
        xml:space="preserve"
@@ -4059,8 +3904,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-94-5-2-4-2"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">FRD2</text>
     <text
        xml:space="preserve"
@@ -4070,8 +3914,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-94-5-2-4-2-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">SUCDi</text>
     <text
        xml:space="preserve"
@@ -4081,72 +3924,58 @@
        font-weight="normal"
        font-size="209"
        id="text3818-7"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">succ_p</text>
     <polyline
        points="1271,14473 -120,14473 "
        style="fill:none;stroke:#000000;stroke-width:9.70764065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="polyline3282-9"
-       transform="matrix(1.096442,0,0,-0.46192814,700.83095,21064.421)" />
+       transform="matrix(1.096442,0,0,-0.46192814,700.83095,21117.761)" />
     <polygon
-       points="-106,14446 -106,14446 -215,14473 -106,14500 "
+       points="-215,14473 -106,14500 -106,14446 "
        style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
        id="polygon3284-2"
-       transform="matrix(0.98864707,0,0,0.99254132,718.76759,10.074279)" />
+       transform="matrix(0.98864707,0,0,0.99254132,718.76759,63.414781)" />
     <polyline
        points="-228,14278 1195,14278 "
        style="fill:none;stroke:#000000;stroke-width:6.00662851;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="polyline3336-5"
-       transform="matrix(0.99112185,0,0,0.99254131,728.33413,107.50146)" />
+       transform="matrix(0.99112185,0,0,0.99254131,728.33413,80.831209)" />
     <polygon
-       points="1291,14278 1182,14250 1182,14304 1182,14304 "
+       points="1182,14250 1182,14304 1182,14304 1291,14278 "
        style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
        id="polygon3338-7"
-       transform="matrix(0.98864707,0,0,0.99254132,723.87515,101.04501)" />
+       transform="matrix(0.98864707,0,0,0.99254132,723.87515,74.374759)" />
     <text
        xml:space="preserve"
-       x="-707.45563"
-       y="14478.204"
+       x="-1107.6804"
+       y="14053.512"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-3-1-0-6-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803636,1.0019675)">SuccEx</text>
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       transform="scale(0.99803636,1.0019675)">EX_succ_e</text>
     <text
        xml:space="preserve"
-       x="-692.9021"
-       y="14201.041"
-       font-style="normal"
-       font-weight="normal"
-       font-size="148"
-       id="text3386-2-7-3-7-3-3-1-0-4-0"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803636,1.0019675)">SuccUp</text>
-    <text
-       xml:space="preserve"
-       x="465.90558"
-       y="14209.491"
+       x="439.18286"
+       y="14156.255"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-3-1-0-4-0-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">SUCCt2_2pp</text>
     <text
        xml:space="preserve"
-       x="649.76678"
-       y="14459.177"
+       x="1421.7991"
+       y="14556.57"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-3-1-0-4-0-3-4"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803636,1.0019675)">SUCCt3pp</text>
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       transform="scale(0.99803636,1.0019675)">SUCCt2_3pp</text>
     <text
        xml:space="preserve"
        x="8013.4072"
@@ -4155,8 +3984,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3-1"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-51525670"
        inkscape:transform-center-y="111624940"
        transform="scale(0.99803636,1.0019675)">NADH17pp</text>
@@ -4168,8 +3996,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3-1-0"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-687101280"
        inkscape:transform-center-y="1488532600"
        transform="scale(0.99803635,1.0019675)">NADTRHD</text>
@@ -4181,8 +4008,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3-1-0-8"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-9.1625818e+09"
        inkscape:transform-center-y="1.9849768e+10"
        transform="scale(0.99803635,1.0019675)">THD2pp</text>
@@ -4194,24 +4020,22 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3-1-0-8-7"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-1.2218417e+11"
        inkscape:transform-center-y="2.6469915e+11"
        transform="scale(0.99803635,1.0019675)">NADH16pp</text>
     <text
        xml:space="preserve"
-       x="8812.4609"
-       y="11956.335"
+       x="9861.0684"
+       y="11921.901"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7-3-5-8-7-1"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="109.32852"
        inkscape:transform-center-y="290.5389"
-       transform="scale(0.99803636,1.0019675)">O2Up</text>
+       transform="scale(0.99803636,1.0019675)">EX_o2_e</text>
     <text
        xml:space="preserve"
        x="8316.6377"
@@ -4220,8 +4044,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3-1-0-8-3"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-1.2218417e+11"
        inkscape:transform-center-y="2.6469915e+11"
        transform="scale(0.99803636,1.0019675)">CYTBO3_4pp</text>
@@ -4233,8 +4056,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3-1-0-8-3-1"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-1.6293413e+12"
        inkscape:transform-center-y="3.5297963e+12"
        transform="scale(0.99803635,1.0019675)">ATPS4rpp</text>
@@ -4246,8 +4068,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3-1-0-8-3-1-9"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-2.172747e+13"
        inkscape:transform-center-y="4.7070277e+13"
        transform="scale(0.99803635,1.0019675)">ATPM</text>
@@ -4259,8 +4080,7 @@
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3-1-0-8-3-1-9-2"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        inkscape:transform-center-x="-2.8973854e+14"
        inkscape:transform-center-y="6.2768804e+14"
        transform="scale(0.99803635,1.0019675)">ADK1</text>
@@ -4292,7 +4112,7 @@
        font-weight="normal"
        font-size="209"
        id="text3844-1"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        inkscape:transform-center-x="-12.567553"
        inkscape:transform-center-y="52.571034"
        transform="scale(0.99803636,1.0019675)">xu5p_*D</text>
@@ -4304,7 +4124,7 @@
        font-weight="normal"
        font-size="148"
        id="text3876-8"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">nadh</text>
     <polyline
        transform="matrix(0.89232092,0,0,0.51115223,854.40016,5371.2039)"
@@ -4319,7 +4139,7 @@
        font-weight="normal"
        font-size="148"
        id="text3868-8"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">nadh</text>
     <polyline
        points="4452,10457 4734,10362 "
@@ -4341,7 +4161,7 @@
        font-weight="normal"
        font-size="148"
        id="text3830-0"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">nadph</text>
     <text
        xml:space="preserve"
@@ -4351,15 +4171,15 @@
        font-weight="normal"
        font-size="148"
        id="text3828-8"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">nadh</text>
     <rect
-       x="-1364.0425"
-       y="1802.5576"
-       width="860.35144"
-       height="322.59198"
-       rx="71.695953"
-       style="fill:none;stroke:#000000;stroke-width:5.80599785;stroke-linecap:butt;stroke-linejoin:miter"
+       x="-1249.5287"
+       y="1802.4749"
+       width="746.20917"
+       height="282.79456"
+       rx="62.184105"
+       style="fill:none;stroke:#000000;stroke-width:5.06265068;stroke-linecap:butt;stroke-linejoin:miter"
        id="rect3778-2" />
     <text
        xml:space="preserve"
@@ -4369,7 +4189,7 @@
        font-weight="normal"
        font-size="209"
        id="text3818-7-7"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)" />
     <rect
        x="-287.11771"
@@ -4425,22 +4245,22 @@
        points="1776,10135 1522,10042 "
        style="fill:none;stroke:#000000;stroke-width:5.13070965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="polyline3676-9"
-       transform="matrix(-0.40433962,1.1000542,-1.0670013,-0.41686499,12704.142,16906.534)" />
+       transform="matrix(-0.40433962,1.1000542,-1.0670013,-0.41686499,12704.142,16959.874)" />
     <polyline
        points="1601 10047 1512 10038 1586 10088 "
        style="fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:8"
        id="polyline3678-0"
-       transform="matrix(-0.35033622,0.92813469,-0.92449314,-0.35171618,11191.384,16513.466)" />
+       transform="matrix(-0.35033622,0.92813469,-0.92449314,-0.35171618,11191.384,16566.806)" />
     <polyline
        points="1776,10135 1522,10042 "
        style="fill:none;stroke:#000000;stroke-width:5.26657438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="polyline3676-9-7"
-       transform="matrix(-0.94634906,-0.58523909,0.55077534,-1.0055651,-2773.6984,25246.007)" />
+       transform="matrix(-0.94634906,-0.58523909,0.55077534,-1.0055651,-2773.6984,25219.337)" />
     <polyline
        points="1601 10047 1512 10038 1586 10088 "
        style="fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:8"
        id="polyline3678-0-8"
-       transform="matrix(-0.85446778,-0.49925928,0.49730043,-0.8578335,-2375.3408,23632.836)" />
+       transform="matrix(-0.85446778,-0.49925928,0.49730043,-0.8578335,-2375.3408,23606.166)" />
     <polyline
        points="1776,10135 1522,10042 "
        style="fill:none;stroke:#000000;stroke-width:7.18888569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
@@ -4465,12 +4285,12 @@
        points="1271,14473 -120,14473 "
        style="fill:none;stroke:#000000;stroke-width:9.11589527;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="polyline3282-8"
-       transform="matrix(0.39895466,0,0,0.99254131,624.90287,-351.75487)" />
+       transform="matrix(0.39895466,0,0,0.99254131,624.90287,-378.42512)" />
     <polyline
        points="1271,14473 -120,14473 "
        style="fill:none;stroke:#000000;stroke-width:9.21300316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="polyline3282-8-6"
-       transform="matrix(0.43464903,0,0,0.99254131,622.26553,269.65425)" />
+       transform="matrix(0.43464903,0,0,0.99254131,622.26553,322.99475)" />
     <text
        xml:space="preserve"
        x="9405.0879"
@@ -4479,7 +4299,7 @@
        font-weight="normal"
        font-size="209"
        id="text3026-7"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">h_p</text>
     <text
        xml:space="preserve"
@@ -4489,7 +4309,7 @@
        font-weight="normal"
        font-size="209"
        id="text3026-5"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">h_p</text>
     <polygon
        points="6813,12530 6785,12638 6839,12638 6839,12638 "
@@ -4510,17 +4330,17 @@
        points="1601 10047 1512 10038 1586 10088 "
        style="fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:8"
        id="polyline3678-0-8-9-0-8"
-       transform="matrix(-0.94070191,0.30534066,-0.30414265,-0.9444073,13740.438,19163.51)" />
+       transform="matrix(-0.94070191,0.30534066,-0.30414265,-0.9444073,13740.438,19110.17)" />
     <polyline
        points="1776,10135 1522,10042 "
        style="fill:none;stroke:#000000;stroke-width:7.03575563;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="polyline3676-9-9-6"
-       transform="matrix(-0.27916024,-0.84730604,-0.73666854,0.3210862,16672.169,8204.3667)" />
+       transform="matrix(-0.27916024,-0.84730604,-0.73666854,0.3210862,16672.169,8151.0261)" />
     <polyline
        points="1271,14473 -120,14473 "
        style="fill:none;stroke:#000000;stroke-width:11.33236504;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="polyline3282-8-6-0-8"
-       transform="matrix(0.28250719,0,0,0.99254131,8884.2008,-4223.6742)" />
+       transform="matrix(0.28250719,0,0,0.99254131,8884.2008,-4277.0148)" />
     <polygon
        transform="matrix(0.98864707,0,0,0.99254132,1025.0531,2368.5142)"
        points="6839,12083 6785,12083 6785,12083 6813,12181 "
@@ -4549,7 +4369,7 @@
        font-weight="normal"
        font-size="209"
        id="text3026-5-0"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803635,1.0019675)">h_p</text>
     <text
        xml:space="preserve"
@@ -4559,7 +4379,7 @@
        font-weight="normal"
        font-size="209"
        id="text3026-5-0-3"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803636,1.0019675)">h_p</text>
     <polyline
        points="6813,13018 6813,12625 "
@@ -4584,7 +4404,7 @@
        font-weight="normal"
        font-size="148"
        id="text3816-8"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803637,1.0019675)">nadh</text>
     <polygon
        transform="matrix(0.98864713,0,0,0.99254125,1652.3814,-2286.2556)"
@@ -4645,11 +4465,6 @@
     <polyline
        points="7019,8475 9964,8475 "
        style="fill:none;stroke:#000000;stroke-width:8.93980503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-       id="polyline3340-3-6"
-       transform="matrix(0.4241974,0,0,0.99254137,5890.1515,-1482.0077)" />
-    <polyline
-       points="7019,8475 9964,8475 "
-       style="fill:none;stroke:#000000;stroke-width:8.93980503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="polyline3340-3-8"
        transform="matrix(0.45580586,0,0,0.99254137,5668.5079,-1567.8187)" />
     <polyline
@@ -4661,7 +4476,7 @@
        points="7019,8475 9964,8475 "
        style="fill:none;stroke:#000000;stroke-width:8.93980503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="polyline3340-3-60"
-       transform="matrix(0.13010133,0,0,0.99254137,8822.5356,-2352.8575)" />
+       transform="matrix(0.21698985,0,0,0.99254137,8212.6651,-2352.8575)" />
     <polyline
        points="7019,8475 9964,8475 "
        style="fill:none;stroke:#000000;stroke-width:8.93980503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
@@ -4670,74 +4485,58 @@
     <text
        xml:space="preserve"
        x="9269.0127"
-       y="5626.7866"
+       y="5582.1479"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7-4"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
        transform="scale(0.99803637,1.0019675)">Growth</text>
     <text
        xml:space="preserve"
-       x="9865.1045"
-       y="5989.8276"
+       x="9820.29"
+       y="5973.5952"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7-6"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803637,1.0019675)">h_pEx</text>
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       transform="scale(0.99803637,1.0019675)">EX_h_e</text>
     <text
        xml:space="preserve"
-       x="9303.9287"
-       y="6435.8652"
+       x="9832.7646"
+       y="6332.5522"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7-9"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803637,1.0019675)">h2oEx</text>
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       transform="scale(0.99803637,1.0019675)">EX_h2o_e</text>
     <text
        xml:space="preserve"
-       x="9266.4004"
-       y="6797.2935"
+       x="9841.7383"
+       y="6759.7861"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7-7"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803637,1.0019675)">CO2Up</text>
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       transform="scale(0.99803637,1.0019675)">EX_co2_e</text>
     <text
        xml:space="preserve"
-       x="9273.9014"
-       y="7055.9814"
-       font-style="normal"
-       font-weight="normal"
-       font-size="148"
-       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7-93"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803637,1.0019675)">CO2Ex</text>
-    <text
-       xml:space="preserve"
-       x="9340.5801"
-       y="7285.9336"
+       x="9829.7852"
+       y="7212.0112"
        font-style="normal"
        font-weight="normal"
        font-size="148"
        id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7-8"
-       style="font-size:146.60765076px;font-style:normal;font-weight:normal;line-height:124.00000095%;text-anchor:start;fill:#0066ff;stroke-width:0.025in;font-family:Times"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803637,1.0019675)">h2Ex</text>
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       transform="scale(0.99803637,1.0019675)">EX_h2_e</text>
     <polygon
-       points="9951,8502 9951,8502 10060,8475 9951,8448 "
+       points="10060,8475 9951,8448 9951,8502 "
        style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
        id="polygon3342-1"
-       transform="matrix(0.98864712,0,0,0.99254137,261.7557,-1482.6357)" />
+       transform="matrix(0.98864712,0,0,0.99254137,261.7557,-1570.7786)" />
     <polygon
        points="10060,8475 9951,8448 9951,8502 9951,8502 "
        style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
@@ -4749,15 +4548,15 @@
        id="polygon3342-0"
        transform="matrix(0.98864712,0,0,0.99254137,261.7557,-1947.6677)" />
     <polygon
-       points="9951,8448 9951,8502 9951,8502 10060,8475 "
+       points="9951,8448 9951,8502 10060,8475 "
        style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
        id="polygon3342-2"
-       transform="matrix(0.98864712,0,0,0.99254137,261.7557,-2353.5406)" />
+       transform="matrix(0.98864712,0,0,0.99254137,528.4582,-2353.5406)" />
     <polygon
-       points="9951,8448 9951,8502 9951,8502 10060,8475 "
+       points="9951,8502 9951,8502 10060,8475 9951,8448 "
        style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
        id="polygon3342-8"
-       transform="matrix(0.98864712,0,0,0.99254137,261.7557,-2759.4136)" />
+       transform="matrix(0.98864712,0,0,0.99254137,235.08545,-2759.4136)" />
     <text
        xml:space="preserve"
        x="9406.7441"
@@ -4766,7 +4565,7 @@
        font-weight="normal"
        font-size="209"
        id="text3026-7-7"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803637,1.0019675)">h_p</text>
     <text
        xml:space="preserve"
@@ -4776,7 +4575,7 @@
        font-weight="normal"
        font-size="209"
        id="text3052-3"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803637,1.0019675)">h2o</text>
     <text
        xml:space="preserve"
@@ -4786,7 +4585,7 @@
        font-weight="normal"
        font-size="209"
        id="text3046-0"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803637,1.0019675)">co2</text>
     <text
        xml:space="preserve"
@@ -4796,24 +4595,13 @@
        font-weight="normal"
        font-size="209"
        id="text3050-7"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803637,1.0019675)">h2</text>
     <polygon
        points="9995,10366 9886,10338 9886,10393 9886,10393 "
        style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
        id="polygon3280-1"
        transform="matrix(0.98864712,0,0,0.99254137,405.83369,1742.3535)" />
-    <text
-       xml:space="preserve"
-       x="10230.764"
-       y="1920.0376"
-       font-style="normal"
-       font-weight="normal"
-       font-size="148"
-       id="text3386-2-7-3-7-3-3-1-0-4-0-2"
-       style="font-size:146.60765076000001272px;font-style:normal;font-weight:normal;line-height:124.00000095000000044%;text-anchor:start;fill:#000000;stroke-width:0.02500000000000000in;font-family:Times;fill-opacity:1"
-       sodipodi:linespacing="124%"
-       transform="scale(0.99803637,1.0019675)">* = DASH_</text>
     <polygon
        points="9919,9219 9919,9219 10028,9192 9919,9165 "
        style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
@@ -4832,7 +4620,7 @@
        font-weight="normal"
        font-size="209"
        id="text3026-7-9"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803637,1.0019675)">h_p</text>
     <text
        xml:space="preserve"
@@ -4842,7 +4630,7 @@
        font-weight="normal"
        font-size="209"
        id="text3026-7-0"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803637,1.0019675)">h_p</text>
     <text
        xml:space="preserve"
@@ -4852,27 +4640,198 @@
        font-weight="normal"
        font-size="209"
        id="text3026-7-00"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803637,1.0019675)">h_p</text>
     <text
        xml:space="preserve"
        x="248.14862"
-       y="14011.91"
+       y="13985.292"
        font-style="normal"
        font-weight="normal"
        font-size="209"
        id="text3026-7-5"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
        transform="scale(0.99803637,1.0019675)">h_p</text>
     <text
        xml:space="preserve"
        x="247.66583"
-       y="14657.143"
+       y="14710.379"
        font-style="normal"
        font-weight="normal"
        font-size="209"
        id="text3026-7-57"
-       style="font-size:207.03378296px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke-width:0.025in;font-family:Times"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.025in"
+       transform="scale(0.99803637,1.0019675)">h_p</text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:101.13132477px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06320708in"
+       x="10679.865"
+       y="12119.999"
+       id="text1394"><tspan
+         sodipodi:role="line"
+         id="tspan1392"
+         x="10679.865"
+         y="12119.999"
+         style="stroke-width:0.06320708in">2</tspan></text>
+    <text
+       xml:space="preserve"
+       x="10540.005"
+       y="6920.293"
+       font-style="normal"
+       font-weight="normal"
+       font-size="209"
+       id="text3060-6"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.02500003in"
+       transform="scale(0.99803637,1.0019675)">CO</text>
+    <rect
+       x="10477.591"
+       y="6736.0664"
+       width="463.24734"
+       height="284.82401"
+       rx="83.231201"
+       style="fill:none;stroke:#000000;stroke-width:5.87806177;stroke-linecap:butt;stroke-linejoin:miter"
+       id="rect3802-4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:101.13132477px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06320703in"
+       x="10821.552"
+       y="6977.5933"
+       id="text1394-1"><tspan
+         sodipodi:role="line"
+         id="tspan1392-5"
+         x="10821.552"
+         y="6977.5933"
+         style="stroke-width:0.06320703in">2</tspan></text>
+    <text
+       xml:space="preserve"
+       x="10596.562"
+       y="7398.5757"
+       font-style="normal"
+       font-weight="normal"
+       font-size="209"
+       id="text3060-1"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.02500003in"
+       transform="scale(0.99803637,1.0019675)">H</text>
+    <rect
+       x="10528.782"
+       y="7214.7998"
+       width="320.47137"
+       height="285.80463"
+       rx="57.578789"
+       style="fill:none;stroke:#000000;stroke-width:4.89743423;stroke-linecap:butt;stroke-linejoin:miter"
+       id="rect3802-0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:101.13132477px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06320703in"
+       x="10729.478"
+       y="7456.8174"
+       id="text1394-2"><tspan
+         sodipodi:role="line"
+         id="tspan1392-3"
+         x="10729.478"
+         y="7456.8174"
+         style="stroke-width:0.06320703in">2</tspan></text>
+    <text
+       xml:space="preserve"
+       x="10522.65"
+       y="6505.6533"
+       font-style="normal"
+       font-weight="normal"
+       font-size="209"
+       id="text3060-6-7"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.02500003in"
+       transform="scale(0.99803637,1.0019675)">H</text>
+    <rect
+       x="10460.27"
+       y="6320.6113"
+       width="463.24731"
+       height="284.82397"
+       rx="83.231201"
+       style="fill:none;stroke:#000000;stroke-width:5.87806177;stroke-linecap:butt;stroke-linejoin:miter"
+       id="rect3802-4-4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:101.13132477px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06320703in"
+       x="10644.211"
+       y="6562.1382"
+       id="text1394-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan1392-5-8"
+         x="10644.211"
+         y="6562.1382"
+         style="stroke-width:0.06320703in">2</tspan></text>
+    <text
+       xml:space="preserve"
+       x="10728.396"
+       y="6507.6924"
+       font-style="normal"
+       font-weight="normal"
+       font-size="209"
+       id="text3060-6-3"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.02500003in"
+       transform="scale(0.99803637,1.0019675)">O</text>
+    <polygon
+       points="-106,14446 -215,14473 -106,14500 "
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       id="polygon3284-2-2"
+       transform="matrix(0.98864712,0,0,0.99254137,-326.24581,-64.657477)" />
+    <polygon
+       points="1816,3949 1707,3977 1816,4003 "
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       id="polygon3610-5"
+       transform="matrix(0.98864712,0,0,0.99254137,-2153.4105,2531.5227)" />
+    <polyline
+       points="1271,14473 -120,14473 "
+       style="fill:none;stroke:#000000;stroke-width:9.70764065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline3282-9-9"
+       transform="matrix(1.096442,0,0,-0.46192821,690.55876,21013.856)" />
+    <polygon
+       points="-106,14446 -215,14473 -106,14500 "
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       id="polygon3284-2-3"
+       transform="matrix(0.98864712,0,0,0.99254137,708.49546,-40.490594)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.00107574;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1553"
+       width="652.60095"
+       height="117.91544"
+       x="664.13855"
+       y="14275.768"
+       rx="77.121559" />
+    <text
+       xml:space="preserve"
+       x="669.36615"
+       y="14346.488"
+       font-style="normal"
+       font-weight="normal"
+       font-size="148"
+       id="text3386-2-7-3-7-3-3-1-0-4-0-3-4-9"
+       style="font-style:normal;font-weight:normal;font-size:146.60765076px;line-height:0%;font-family:Times;text-anchor:start;fill:#0066ff;fill-opacity:1;stroke:none;stroke-width:0.02500003in;stroke-opacity:1"
+       transform="scale(0.99803637,1.0019675)">SUCCt3pp</text>
+    <polyline
+       points="1776,10135 1522,10042 "
+       style="fill:none;stroke:#000000;stroke-width:5.13070965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline3676-9-98"
+       transform="matrix(-0.41738681,0.86013339,-1.101431,-0.32594709,13074.274,16293.854)" />
+    <polyline
+       points="1601 10047 1512 10038 1586 10088 "
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       id="polyline3678-0-85"
+       transform="matrix(-0.48048511,0.86793066,-0.8641282,-0.48132561,10775.095,17854.119)" />
+    <polyline
+       points="1271,14473 -120,14473 "
+       style="fill:none;stroke:#000000;stroke-width:9.21300316;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline3282-8-6-6"
+       transform="matrix(0.43464907,0,0,0.99254137,620.48894,152.14106)" />
+    <text
+       xml:space="preserve"
+       x="245.88568"
+       y="14539.86"
+       font-style="normal"
+       font-weight="normal"
+       font-size="209"
+       id="text3026-7-57-3"
+       style="font-style:normal;font-weight:normal;font-size:207.03378296px;line-height:0%;font-family:Times;text-anchor:start;fill:#000000;stroke-width:0.02500003in"
        transform="scale(0.99803637,1.0019675)">h_p</text>
   </g>
 </svg>
