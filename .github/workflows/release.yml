@@ -17,12 +17,12 @@ jobs:
         run: sudo apt-get install zip
 
       - name: Create archives
-        run: for d in ./*; do if [ -d "$d" ]; then cd "$d"; zip ../"$d".cna *; cd ..; fi; done
+        run: sudo ./create_cnapy_projects_zip.sh
 
       - name: Upload assets
         uses: softprops/action-gh-release@v0.1.5
         with:
           # Newline-delimited list of path globs for asset files to upload
-          files: ./*.cna
+          files: ./*.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
