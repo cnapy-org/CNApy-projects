@@ -47,9 +47,19 @@ do
   fi
 done
 
-# Zip everything together
 rm -rf "$zip_package_path"/"${zip_package_path:2}"
 cd $zip_package_path
-zip -r ../cnapy_projects.zip *
+
+# Zip everything together
+zip -r ../all_cnapy_projects.zip *
+
+# Create single-project .zip files
+for d in ./*
+do
+  cd $d
+  zip -r ../../${d:2}.zip *
+  cd ..
+done
+
 cd ..
 rm -rf $zip_package_path
