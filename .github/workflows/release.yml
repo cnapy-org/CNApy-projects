@@ -17,6 +17,7 @@ jobs:
         run: sudo apt-get install zip
 
       - name: Create archives
+        working-directory: ./
         run: sudo ./create_cnapy_projects_zip.sh
 
       - name: Upload assets
