@@ -1,3 +1,5 @@
+#!/bin/bash
+
 zip_package_path=./_zip_package
 # Create temporary subfolder in which
 # all other new temporary folders for each
