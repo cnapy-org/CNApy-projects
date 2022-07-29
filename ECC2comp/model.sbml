@@ -121,6 +121,7 @@
       <parameter sboTerm="SBO:0000625" id="R_GlcUp_upper_bound" value="10" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_GlycUp_upper_bound" value="10" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_SuccUp_upper_bound" value="10" units="mmol_per_gDW_per_hr" constant="true"/>
+      <parameter sboTerm="SBO:0000625" id="R_ATPM_lower_bound" value="3.15" units="mmol_per_gDW_per_hr" constant="true"/>
     </listOfParameters>
     <listOfReactions>
       <reaction metaid="meta_R_EX_Biomass" sboTerm="SBO:0000627" id="R_EX_Biomass" name="EX_Biomass" reversible="true" fast="false" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -483,18 +484,7 @@
           <speciesReference species="M_nad_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction metaid="meta_R_ATPM" id="R_ATPM" name="R_ATPM" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_R_ATPM">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/cnapy-default/(3.15, 3.15)"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <reaction metaid="meta_R_ATPM" id="R_ATPM" name="R_ATPM" reversible="false" fast="false" fbc:lowerFluxBound="R_ATPM_lower_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
