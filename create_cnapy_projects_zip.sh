@@ -55,6 +55,9 @@ cd $zip_package_path
 # Zip everything together
 zip -r ../all_cnapy_projects.zip *
 
+# Zip main projects together
+zip -r ../main_cnapy_projects.zip SmallExample ECC2 ECC2comp e_coli_core e_coli_core_14bdo iJO1366 iJO1366core iML1515 iML1515core
+
 # Create single-project .zip files
 for d in ./*
 do
