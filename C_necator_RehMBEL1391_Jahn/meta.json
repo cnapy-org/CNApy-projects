@@ -1,0 +1,1 @@
+{"format version": 2, "description": "Based on RehMBEL1391_sbml_L3V1.xml downloaded from https://github.com/m-jahn/genome-scale-models/tree/master/Ralstonia_eutropha/sbml, the map is also taken from this repository.\n\nmaximum ATP/H2 yield is 2.3333\n\nno maintenance ATP set in this model\n\nremoved proton symport in PHBt\n"}
