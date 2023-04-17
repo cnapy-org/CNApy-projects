@@ -1,0 +1,3031 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90.899681"
+   inkscape:export-xdpi="90.899681"
+   inkscape:export-filename="/afs/mpi-magdeburg.mpg.de/home/vonkamp/CNAgit/CellNetAnalyzer/iHN446_AvK/Zymomonas_Central_Metabolism.png"
+   sodipodi:docname="Zymomonas_Central_Metabolism.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   version="1.1"
+   id="svg3004"
+   viewBox="-1377 -8 12566.033 13560.945"
+   height="1016.9342"
+   width="945.71088">
+  <metadata
+     id="metadata3908">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3906">
+    <rect
+       id="rect1256"
+       height="2131.1736"
+       width="3055.0928"
+       y="12563.533"
+       x="6648.2493" />
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path5443"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     fit-margin-bottom="5"
+     fit-margin-right="5"
+     fit-margin-left="5"
+     fit-margin-top="5"
+     inkscape:guide-bbox="true"
+     showguides="false"
+     inkscape:snap-global="false"
+     inkscape:snap-center="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="false"
+     inkscape:current-layer="g3006"
+     inkscape:window-maximized="0"
+     inkscape:window-y="27"
+     inkscape:window-x="240"
+     inkscape:cy="534.94652"
+     inkscape:cx="316.16993"
+     inkscape:zoom="0.76543688"
+     showgrid="false"
+     id="namedview3904"
+     inkscape:window-height="1041"
+     inkscape:window-width="1607"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6151" />
+  </sodipodi:namedview>
+  <g
+     transform="translate(70.350628,-1348.9947)"
+     id="g3006"
+     style="fill:none;stroke-width:0.025in">
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3008"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="8497.7188"
+       x="6713.8052"
+       xml:space="preserve">lac_*D</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3010"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="9512.4707"
+       x="5815.3003"
+       xml:space="preserve">acald</text>
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3014"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="10152.659"
+       x="5567.7378"
+       xml:space="preserve">for</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3016"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="9299.5967"
+       x="8067.4214"
+       xml:space="preserve">ac</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3018"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="9656.8857"
+       x="8070.687"
+       xml:space="preserve">etoh</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3024"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="12419.946"
+       x="7611.021"
+       xml:space="preserve">q10h2</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3026"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="12440.392"
+       x="9403.0801"
+       xml:space="preserve">h_p</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3028"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="11535.644"
+       x="8099.937"
+       xml:space="preserve">atp</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3030"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="12065.765"
+       x="8142.8247"
+       xml:space="preserve">o2</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3032"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="7259.3691"
+       x="218.83398"
+       xml:space="preserve">h2</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3038"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="9670.0205"
+       x="10411.854"
+       xml:space="preserve">etoh_ex</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3040"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="9296.3789"
+       x="10548.247"
+       xml:space="preserve">ac_ex</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3042"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="8509.1074"
+       x="10520.699"
+       xml:space="preserve">lac_ex</text>
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3046"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="6955.0879"
+       x="10454.857"
+       xml:space="preserve">co2_ex</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3048"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="5542.251"
+       x="10321.689"
+       xml:space="preserve">Biomass</text>
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3052"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="6506.3457"
+       x="10436.544"
+       xml:space="preserve">h2o_ex</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3054"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="6092.2261"
+       x="10436.988"
+       xml:space="preserve">h_e_ex</text>
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3058"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="11552.173"
+       x="7007.6997"
+       xml:space="preserve">adp</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3060"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="12052.601"
+       x="10558.376"
+       xml:space="preserve">o2_ex</text>
+    <!-- Text -->
+    <!-- Arc -->
+    <!-- Arrowhead on XXXpoint 4660 13929 - 4563 14017-->
+    <!-- Arc -->
+    <path
+       inkscape:connector-curvature="0"
+       id="path3068"
+       d="m 1454.1661,13501.669 a 2163.9946,1969.8087 0 0 0 665.0602,739.452"
+       style="stroke:#000000;stroke-width:7.9280529;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- Arrowhead on XXXpoint 1592 14131 - 1695 14212-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,458.87832,150.4298)"
+       id="polygon3070"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="1608,14109 1574,14152 1677,14198 " />
+    <!-- Arc -->
+    <!-- Arrowhead on XXXpoint 963 13615 - 912 13495-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,523.17849,29.999112)"
+       id="polygon3074"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="988,13606 922,13517 938,13627 988,13606 " />
+    <!-- Arc -->
+    <path
+       inkscape:connector-curvature="0"
+       id="path3076"
+       d="m 5523.8597,4002.1277 a 870.00942,873.43636 0 0 0 1095.4209,0"
+       style="stroke:#000000;stroke-width:5.94355392;stroke-linecap:butt" />
+    <!-- Arrowhead on XXXpoint 6151 2812 - 6258 2738-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1284.5488)"
+       id="polygon3078"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="6165,2835 6165,2835 6239,2751 6134,2790 " />
+    <!-- Arrowhead on XXXpoint 5257 2812 - 5150 2738-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1284.5488)"
+       id="polygon3080"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="5274,2790 5274,2790 5170,2751 5243,2835 " />
+    <!-- Arc -->
+    <!-- Arrowhead on XXXpoint 6151 3706 - 6258 3781-->
+    <!-- Arrowhead on XXXpoint 5257 3706 - 5150 3781-->
+    <!-- Arc -->
+    <!-- Arrowhead on XXXpoint 6151 3464 - 6258 3390-->
+    <!-- Arrowhead on XXXpoint 5257 3464 - 5150 3390-->
+    <!-- Arc -->
+    <path
+       inkscape:connector-curvature="0"
+       id="path3094"
+       d="m 5523.8597,4390.2114 a 870.00942,873.43636 0 0 1 1095.4209,0"
+       style="stroke:#000000;stroke-width:5.94355392;stroke-linecap:butt" />
+    <!-- Arrowhead on XXXpoint 6151 3054 - 6258 3129-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1284.5488)"
+       id="polygon3096"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="6134,3076 6134,3076 6239,3116 6165,3031 " />
+    <!-- Arrowhead on XXXpoint 5257 3054 - 5150 3129-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1284.5488)"
+       id="polygon3098"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="5243,3031 5243,3031 5170,3116 5274,3076 " />
+    <!-- Arc -->
+    <path
+       inkscape:connector-curvature="0"
+       id="path3100"
+       d="m 4943.0521,3938.0843 a 822.34351,613.9113 0 1 0 0,1227.8223"
+       style="stroke:#000000;stroke-width:6.88715792;stroke-linecap:butt" />
+    <!-- Arrowhead on XXXpoint 4434 3895 - 4563 3911-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1284.5488)"
+       id="polygon3102"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="4429,3921 4429,3921 4540,3908 4435,3868 " />
+    <!-- Arrowhead on XXXpoint 4434 2689 - 4563 2673-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1284.5488)"
+       id="polygon3104"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="4435,2715 4435,2715 4540,2675 4429,2662 " />
+    <!-- Arc -->
+    <path
+       inkscape:connector-curvature="0"
+       id="path3106"
+       d="m 1785.7851,4536.696 a 1475.0614,1480.8717 0 0 1 1514.6073,-32.7539"
+       style="stroke:#000000;stroke-width:5.94355392;stroke-linecap:butt" />
+    <!-- Arrowhead on XXXpoint 2785 3722 - 2901 3781-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,751.14261)"
+       id="polygon3108"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2770,3744 2770,3744 2880,3770 2795,3696 " />
+    <!-- Arrowhead on XXXpoint 1482 3749 - 1369 3814-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,379.22686,767.40681)"
+       id="polygon3110"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="1389,3802 1496,3771 1469,3724 1469,3724 " />
+    <!-- Arc -->
+    <path
+       inkscape:connector-curvature="0"
+       id="path3112"
+       d="m 2623.1692,14422.768 a 2260.0472,2268.9495 0 0 0 1998.0557,-193.546"
+       style="stroke:#000000;stroke-width:7.26531982;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- Arrowhead on XXXpoint 4125 14344 - 4237 14278-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,57.716688)"
+       id="polygon3114"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="4109,14320 4137,14367 4137,14367 4217,14289 " />
+    <!-- Arrowhead on XXXpoint 2339 14516 - 2216 14473-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,356.99081,19.900513)"
+       id="polygon3116"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2350,14491 2350,14491 2239,14481 2332,14542 " />
+    <!-- Arc -->
+    <path
+       inkscape:connector-curvature="0"
+       id="path3118"
+       d="m 1269.711,12352.327 a 1339.6168,1344.8935 0 0 0 128.5245,840.682"
+       style="stroke:#000000;stroke-width:7.26531982;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- Arrowhead on XXXpoint 924 13116 - 977 13234-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,57.716688)"
+       id="polygon3120"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="948,13102 898,13124 898,13124 968,13213 " />
+    <!-- Arrowhead on XXXpoint 831 12517 - 847 12387-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,57.716688)"
+       id="polygon3122"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="804,12514 857,12521 857,12521 844,12410 " />
+    <!-- Arc -->
+    <!-- Arrowhead on XXXpoint 1220 11184 - 1303 11083-->
+    <!-- Arrowhead on XXXpoint 864 11997 - 847 12126-->
+    <!-- Arc -->
+    <path
+       inkscape:connector-curvature="0"
+       id="path3130"
+       d="m 3653.9646,2804.7592 a 1295.3602,999.84285 0 0 1 32.656,1817.1322"
+       style="stroke:#000000;stroke-width:5.21642303;stroke-linecap:butt" />
+    <!-- Arrowhead on XXXpoint 3407 3850 - 3292 3911-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,346.63217,790.84961)"
+       id="polygon3132"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="3396,3825 3313,3900 3421,3873 3396,3825 " />
+    <!-- Arrowhead on XXXpoint 3376 1590 - 3259 1532-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1284.5488)"
+       id="polygon3134"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="3389,1566 3389,1566 3280,1542 3365,1615 " />
+    <!-- Arc -->
+    <!-- Arrowhead on XXXpoint 1232 2338 - 1173 2444-->
+    <!-- Arc -->
+    <!-- Arrowhead on XXXpoint 796 2956 - 880 2868-->
+    <!-- Arc -->
+    <path
+       inkscape:connector-curvature="0"
+       id="path3144"
+       d="m 4518.8514,10572.7 a 2255.2875,2269.942 0 0 0 -2540.2801,226.299"
+       style="stroke:#000000;stroke-width:7.25211;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- Arrowhead on XXXpoint 4024 10533 - 4140 10594-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,57.716688)"
+       id="polygon3146"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="4009,10556 4118,10583 4034,10508 4009,10556 " />
+    <!-- Arc -->
+    <!-- Arrowhead on XXXpoint 4611 10953 - 4498 10887-->
+    <!-- Arrowhead on XXXpoint 4933 11214 - 5020 11311-->
+    <path
+       inkscape:connector-curvature="0"
+       id="path3148"
+       d="M 5405.9886,11399.128 A 2884.4056,1581.8494 88.770086 0 0 4890.1348,10742.52"
+       style="stroke:#000000;stroke-width:9.26569462;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none" />
+    <polygon
+       transform="matrix(0.97971906,0,0,1.187068,410.37799,-2206.9405)"
+       id="polygon3150"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="4518,10899 4599,10976 4626,10929 4626,10929 " />
+    <!-- Arc -->
+    <!-- Arrowhead on XXXpoint 5359 12614 - 5378 12485-->
+    <!-- Arrowhead on XXXpoint 5307 12911 - 5280 13039-->
+    <polygon
+       transform="matrix(0.9757968,0.15950834,-0.15888251,0.97964043,2369.9003,-549.76298)"
+       id="polygon3158"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="5333,12914 5280,12903 5280,12903 5285,13016 " />
+    <!-- Arc -->
+    <path
+       inkscape:connector-curvature="0"
+       id="path3160"
+       d="m 5574.2797,11996.401 a 936.778,671.9024 83.617742 0 0 -221.1081,-690.407"
+       style="stroke:#000000;stroke-width:10.10344315;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none" />
+    <!-- Arrowhead on XXXpoint 5439 11752 - 5378 11637-->
+    <!-- Arrowhead on XXXpoint 5494 12062 - 5476 12191-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,397.48326,1668.8473)"
+       id="polyline3166"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="32,32 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.2372899,0,0,0.73495653,-1496.5326,1685.3431)"
+       id="polyline3168"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6454,521 7758,521 7758,5824 " />
+    <!-- Arrowhead on XXXpoint 7758 521 - 7758 5943-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,591.74236,57.716688)"
+       id="polyline3172"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2803,7954 2803,8823 " />
+    <!-- Arrowhead on XXXpoint 2803 7954 - 2803 8942-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,591.74236,57.716688)"
+       id="polygon3174"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2775,8810 2803,8919 2830,8810 2775,8810 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 2999 8931 - 2999 7943-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.0898234,0,0,1.0347221,-286.84626,-200.55279)"
+       id="polyline3180"
+       style="stroke:#000000;stroke-width:7.23977518;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="3592,8785 5932,6128 7106,6128 " />
+    <!-- Arrowhead on XXXpoint 5932 6128 - 3513 8874-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,102.73311,137.13067)"
+       id="polygon3182"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="3528,8857 3620,8793 3580,8757 3580,8757 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.96235181,0,0,0.67470276,463.33384,2006.1091)"
+       id="polyline3184"
+       style="stroke:#000000;stroke-width:7.33936071;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="5932,6128 3344,4108 " />
+    <!-- Arrowhead on XXXpoint 5932 6128 - 3251 4034-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,379.5915,698.00721)"
+       id="polygon3186"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="3372,4094 3372,4094 3269,4049 3338,4137 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,353.22403,57.716688)"
+       id="polyline3188"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2999,9192 2999,9801 " />
+    <!-- Arrowhead on XXXpoint 2999 9192 - 2999 9920-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,353.22403,57.716688)"
+       id="polygon3190"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2999,9897 3025,9788 2971,9788 2971,9788 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,57.716688)"
+       id="polyline3192"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1369,10649 1369,7758 2673,7758 " />
+    <!-- Arrowhead on XXXpoint 1369 7758 - 1369 10768-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,57.716688)"
+       id="polygon3194"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="1395,10636 1341,10636 1341,10636 1369,10745 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.6626157,0,0,2.2410035,-1439.3018,-12708.792)"
+       id="polyline3196"
+       style="stroke:#000000;stroke-width:3.94866824;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="2999,10170 3520,10366 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.3186408,0,0,0.99254132,-1124.6895,57.716688)"
+       id="polyline3198"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="5824,8475 4042,8475 " />
+    <!-- Arrowhead on XXXpoint 4042 8475 - 5943 8475-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,744.87736,57.716688)"
+       id="polygon3200"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="5811,8502 5920,8475 5811,8448 5811,8502 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 6976 9583 - 7572 9782-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 5476 9192 - 10051 9192-->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 3781 10366 - 4965 10366-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 3129 9192 - 4509 9192-->
+    <g
+       id="g6440"
+       transform="matrix(0.97116809,0.23839578,-0.23839578,0.97116809,2416.7105,-627.15229)">
+      <polyline
+         points="3129,9192 4389,9192 "
+         style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+         id="polyline3216"
+         transform="matrix(1.5528796,0,0,0.99254132,-1417.4749,591.12169)" />
+      <polygon
+         points="4486,9192 4377,9165 4377,9219 4377,9219 "
+         style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+         id="polygon3218"
+         transform="matrix(0.98864707,0,0,0.99254132,1073.8229,584.48228)" />
+    </g>
+    <!-- Line -->
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,353.22403,57.716688)"
+       id="polyline3222"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3129,9127 3129,9801 " />
+    <!-- Arrowhead on XXXpoint 3129 9127 - 3129 9920-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,353.22403,57.716688)"
+       id="polygon3224"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="3129,9897 3156,9788 3101,9788 3101,9788 " />
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 5085 12191 - 3477 12125-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 684 391 - 2749 391-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.75779419,0,0,0.99254132,1039.0642,1518.8055)"
+       id="polyline3236"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1695,586 2629,586 " />
+    <!-- Arrowhead on XXXpoint 1695 586 - 2749 586-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1518.8055)"
+       id="polygon3238"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2617,613 2725,586 2617,559 2617,613 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 2836 1660 - 2836 2455-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.70796806,352.61846,1784.5454)"
+       id="polyline3244"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3064,2497 3064,1760 " />
+    <!-- Arrowhead on XXXpoint 3064 2497 - 3064 1641-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,352.61846,1284.5488)"
+       id="polygon3246"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="3091,1773 3064,1664 3036,1773 3091,1773 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 3781 10366 - 3712 10159-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.6196493,0,0,0.99254132,-4194.3751,-642.34743)"
+       id="polyline3252"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7454,10366 6497,10366 " />
+    <!-- Arrowhead on XXXpoint 7562 10366 - 6378 10366-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,-113.03849,-637.63715)"
+       id="polygon3254"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="6401,10366 6510,10393 6510,10338 6510,10338 " />
+    <!-- Arrowhead on XXXpoint 6389 10366 - 7573 10366-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,517.75641,-642.34743)"
+       id="polygon3256"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="7441,10393 7441,10393 7550,10366 7441,10338 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 1499 7856 - 2651 7856-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 4954 9975 - 3770 9975-->
+    <!-- Arrowhead on XXXpoint 3781 9975 - 4965 9975-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.2055925,0,0,-1.0495407,-1126.2208,19793.116)"
+       id="polyline3268"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7454,9975 6171,9975 " />
+    <!-- Arrowhead on XXXpoint 7562 9975 - 6052 9975-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,198.94271,-570.03552)"
+       id="polygon3270"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="6184,9947 6184,9947 6075,9975 6184,10001 " />
+    <!-- Arrowhead on XXXpoint 6063 9975 - 7573 9975-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,517.38891,-575.54802)"
+       id="polygon3272"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="7550,9975 7441,9947 7441,10001 7441,10001 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.93741458,0,0,0.95838694,415.41301,340.42869)"
+       id="polyline3274"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="4042,8475 3661,8855 " />
+    <!-- Arrowhead on XXXpoint 4042 8475 - 3577 8939-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,227.97857,24.627535)"
+       id="polygon3276"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="3651,8826 3594,8922 3690,8864 3651,8826 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.2556262,0,0,1.5119295,-2239.8778,-6034.7513)"
+       id="polyline3278"
+       style="stroke:#000000;stroke-width:4.3552556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="8508,10366 9899,10366 " />
+    <!-- Arrowhead on XXXpoint 8508 10366 - 10018 10366-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,392.69711,-649.44949)"
+       id="polygon3280"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="9886,10393 9995,10366 9886,10338 9886,10393 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.33392997,0,0,0.99254132,-542.77116,-47.275176)"
+       id="polyline3282"
+       style="stroke:#000000;stroke-width:12.87220383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="1271,14473 -120,14473 " />
+    <!-- Arrowhead on XXXpoint 1271 14473 - -239 14473-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,-473.81401,-47.275176)"
+       id="polygon3284"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="-106,14500 -106,14446 -106,14446 -215,14473 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.73316636,0,0,0.99254132,2157.8908,88.144719)"
+       id="polyline3286"
+       style="stroke:#000000;stroke-width:6.96833467;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="7073,11507 8008,11507 " />
+    <!-- Arrowhead on XXXpoint 7073 11507 - 8127 11507-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 7595 12550 - 6867 12814-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(-0.01594219,0.48255916,-2.7598127,-0.00278752,44203.218,9146.4907)"
+       id="polyline3294"
+       style="stroke:#000000;stroke-width:5.02124;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="6813,13018 6813,12625 " />
+    <!-- Arrowhead on XXXpoint 6813 13104 - 6813 12506-->
+    <polygon
+       transform="matrix(-0.00571087,0.99252477,-0.98863058,-0.00573337,21772.922,5709.865)"
+       id="polygon3296"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="6839,12638 6813,12530 6785,12638 6839,12638 " />
+    <!-- Arrowhead on XXXpoint 6813 12517 - 6813 13115-->
+    <polygon
+       transform="matrix(-0.00571087,0.99252477,-0.98863058,-0.00573337,21085.09,5708.6946)"
+       id="polygon3298"
+       style="fill:#000000;stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="6813,13103 6834,13016 6791,13016 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.86847636,0,0,2.4605829,1476.8884,-18530.586)"
+       id="polyline3300"
+       style="stroke:#000000;stroke-width:4.23445034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="10138,12419 8094,12419 " />
+    <!-- Arrowhead on XXXpoint 10138 12419 - 7975 12419-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,490.14636,-301.28557)"
+       id="polygon3302"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="8107,12392 7998,12419 8107,12446 8107,12392 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 2281 12126 - 1227 12126-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 4694 12159 - 2599 14285-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 358 8997 - 2194 8997-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.2665791,0,0,0.98377326,296.85357,144.22979)"
+       id="polyline3316"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="488,12094 488,9094 2205,9094 " />
+    <!-- Arrowhead on XXXpoint 488 9094 - 2325 9094-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,913.53267,63.527468)"
+       id="polygon3318"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2193,9067 2193,9121 2193,9121 2302,9094 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 7562 13234 - 7062 13234-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 5183 8768 - 6986 8768-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 8931 13267 - 8301 13267-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 8312 13169 - 8942 13169-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint -228 14278 - 1314 14278-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.94222717,0,0,0.99254132,824.21348,57.716688)"
+       id="polyline3340"
+       style="stroke:#000000;stroke-width:5.99838376;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="7019,8475 9964,8475 " />
+    <!-- Arrowhead on XXXpoint 6910 8475 - 10083 8475-->
+    <!-- Arrowhead on XXXpoint 10072 8475 - 6899 8475-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 6813 12191 - 6813 11659-->
+    <!-- Arrowhead on XXXpoint 6813 11670 - 6813 12202-->
+    <polygon
+       transform="matrix(0.03873373,-0.99177928,0.98788802,0.0388863,-2960.8875,17793.223)"
+       id="polygon3350"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="6813,12181 6839,12083 6785,12083 6785,12083 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.274409,0,0,1.4933169,-2443.5535,-5571.7852)"
+       id="polyline3352"
+       style="stroke:#000000;stroke-width:4.34989929;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="8453,9975 9931,9975 " />
+    <!-- Arrowhead on XXXpoint 8345 9975 - 10051 9975-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,365.73561,-575.22442)"
+       id="polygon3354"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="10028,9975 9919,9947 9919,10001 9919,10001 " />
+    <!-- Arrowhead on XXXpoint 10040 9975 - 8334 9975-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 6519 11442 - 5923 11077-->
+    <!-- Arrowhead on XXXpoint 5932 11083 - 6528 11447-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 7856 13397 - 7856 13897-->
+    <!-- Line: box -->
+    <rect
+       id="rect3368"
+       style="stroke:#000000;stroke-width:5.24607897;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="65.140945"
+       height="13257.526"
+       width="8521.4609"
+       y="1513.0012"
+       x="645.91803" />
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3370"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="7798.7412"
+       x="3231.28"
+       xml:space="preserve">pep</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3372"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="6192.3408"
+       x="7536.7168"
+       xml:space="preserve">2KD6PG</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3374"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="9059.1094"
+       x="3263.3477"
+       xml:space="preserve">pyr</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3376"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="13202.286"
+       x="5279.7324"
+       xml:space="preserve">akg</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3378"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="13353.709"
+       x="1213.4686"
+       xml:space="preserve">fum</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3380"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="10965.322"
+       x="1679.41"
+       xml:space="preserve">oaa</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3382"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="14120.804"
+       x="4492.0918"
+       xml:space="preserve">succoa</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3384"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="10027.908"
+       x="3185.5554"
+       xml:space="preserve">accoa</text>
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3388"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="7001.5947"
+       x="3237.885"
+       xml:space="preserve">2pg</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3390"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="6186.9624"
+       x="3237.885"
+       xml:space="preserve">3pg</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3392"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="2064.095"
+       x="3211.4956"
+       xml:space="preserve">g6p</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3394"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="2847.2129"
+       x="3226.5977"
+       xml:space="preserve">f6p</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3396"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="3758.9338"
+       x="3229.377"
+       xml:space="preserve">fdp</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3398"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="3921.5007"
+       x="6632.3062"
+       xml:space="preserve">r5p</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3400"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="4731.2446"
+       x="3257.3638"
+       xml:space="preserve">g3p</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3402"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="4720.6099"
+       x="1524.1274"
+       xml:space="preserve">dhap</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3408"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="5218.8242"
+       x="5234.147"
+       xml:space="preserve">e4p</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3410"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="4634.5332"
+       x="6677.0845"
+       xml:space="preserve">g3p</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3412"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="3000.3015"
+       x="5922.0518"
+       xml:space="preserve">ru5p_*D</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3414"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="2434.748"
+       x="3181.3638"
+       xml:space="preserve">pgi</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3416"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="2020.0901"
+       x="5294.3398"
+       xml:space="preserve">pgl</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3418"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="2015.741"
+       x="3939.4321"
+       xml:space="preserve">zwf</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3420"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="2587.7109"
+       x="6010.7144"
+       xml:space="preserve">gnd</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3422"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="3343.1589"
+       x="5658.7671"
+       xml:space="preserve">rpe</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3424"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="3359.9514"
+       x="6301.4863"
+       xml:space="preserve">rpi</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3426"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="2015.271"
+       x="7664.4248"
+       xml:space="preserve">edd</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3428"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="6095.2627"
+       x="6567.918"
+       xml:space="preserve">eda</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3430"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="3177.042"
+       x="3415.1763"
+       xml:space="preserve">fbp</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3432"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="4638.0146"
+       x="2240.9707"
+       xml:space="preserve">tpi</text>
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3436"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="5671.6025"
+       x="3175.4622"
+       xml:space="preserve">pgk</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3438"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="7448.3975"
+       x="3185.3147"
+       xml:space="preserve">eno</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3482"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="4123.0425"
+       x="6019.1294"
+       xml:space="preserve">tkt</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3488"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="4080.3723"
+       x="4181.3857"
+       xml:space="preserve">tkt</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3490"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="5043"
+       x="3181.2407"
+       xml:space="preserve">gap</text>
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3494"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="4271.8062"
+       x="2378.3726"
+       xml:space="preserve">fba</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:italic;font-weight:normal;font-size:129.768px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3496"
+       font-size="131"
+       font-weight="normal"
+       font-style="italic"
+       y="6513.6055"
+       x="3136.8606"
+       xml:space="preserve">gpm</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3504"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="14325.004"
+       x="2133.4316"
+       xml:space="preserve">succ</text>
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3508"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="5681.2051"
+       x="1464.495"
+       xml:space="preserve">glyc3p</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.96345491,1.0379313)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:199.86686707px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       id="text3520"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="2045.3547"
+       x="-1421.869"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan2404"
+         x="-1421.869"
+         y="2045.3547">glc_D_ex</tspan></text>
+    <!-- Text -->
+    <text
+       transform="scale(0.96952277,1.0314353)"
+       style="font-style:normal;font-weight:normal;font-size:201.119px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3522"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="13902.65"
+       x="-1396.6018"
+       xml:space="preserve">succ_ex</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3524"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="10693.78"
+       x="4570.3228"
+       xml:space="preserve">cit</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3530"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="12254.566"
+       x="5480.2334"
+       xml:space="preserve">icit</text>
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:207.03227234px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       id="text3534"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="2156.0432"
+       x="1698.2751"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan2408"
+         x="1698.2751"
+         y="2156.0432">glc_D</tspan></text>
+    <!-- Text -->
+    <text
+       transform="scale(0.94743318,1.0554834)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:196.54196167px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       id="text3536"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="2017.9602"
+       x="-94.487762"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan2406"
+         x="-94.487762"
+         y="2017.9602">glc_D_e</tspan></text>
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,57.716688)"
+       id="polyline3538"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1173,8084 1361,8335 " />
+    <!-- Arrowhead on XXXpoint 1173 8084 - 1375 8353-->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,57.716688)"
+       id="polyline3540"
+       style="stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="1298 8287 1368 8344 1333 8261 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.9116155,0,0,0.91660818,770.999,816.40052)"
+       id="polyline3542"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2825,8464 2497,8628 " />
+    <!-- Arrowhead on XXXpoint 2825 8464 - 2476 8637-->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,578.88019,161.01943)"
+       id="polyline3544"
+       style="stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="2555 8574 2487 8632 2574 8613 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.3354231,0.34929482,-0.65484413,0.71793929,5509.7609,1629.0544)"
+       id="polyline3546"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2995,9455 2667,9618 " />
+    <!-- Arrowhead on XXXpoint 2995 9455 - 2646 9628-->
+    <polyline
+       transform="matrix(0.88834215,0.43390235,-0.43561148,0.8918413,4596.351,-268.88589)"
+       id="polyline3548"
+       style="stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="2725 9564 2657 9623 2744 9603 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 972 11583 - 1283 11515-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 1122 13891 - 874 13771-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,548.08603,-0.3910959)"
+       id="polyline3558"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3785,14504 3531,14412 " />
+    <!-- Arrowhead on XXXpoint 3785 14504 - 3509 14404-->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,548.08603,-0.3910959)"
+       id="polyline3560"
+       style="stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="3610 14417 3521 14408 3595 14458 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 5998 9583 - 6268 9448-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 6702 9949 - 6972 9813-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,457.77044)"
+       id="polyline3570"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2999,5280 2670,5445 " />
+    <!-- Arrowhead on XXXpoint 2999 5280 - 2650 5454-->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,457.77044)"
+       id="polyline3572"
+       style="stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="2728 5391 2661 5449 2748 5430 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1551.2516)"
+       id="polyline3574"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="5867,782 6117,907 " />
+    <!-- Arrowhead on XXXpoint 5867 782 - 6137 917-->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1551.2516)"
+       id="polyline3576"
+       style="stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="6039 892 6127 912 6058 853 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.59995123,0,0,1.1336891,1759.6156,1482.0233)"
+       id="polyline3578"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3416,494 3744,328 " />
+    <!-- Arrowhead on XXXpoint 3416 494 - 3764 319-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.2554135,0,0,0.99254132,-860.61579,1551.2516)"
+       id="polyline3582"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="4889,521 5367,521 " />
+    <!-- Arrowhead on XXXpoint 4889 521 - 5487 521-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,588.74359,1551.2516)"
+       id="polygon3584"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="5355,494 5355,548 5355,548 5464,521 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.82821692,-0.53988866,0.54201526,0.83147924,222.60755,2889.5374)"
+       id="polyline3586"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2179,802 2390,626 " />
+    <!-- Arrowhead on XXXpoint 2179 802 - 2407 612-->
+    <polyline
+       transform="matrix(0.82821692,-0.53988866,0.54201526,0.83147924,222.60755,2889.5374)"
+       id="polyline3588"
+       style="stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="2344 691 2398 620 2317 658 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 2224 362 - 2453 171-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 2642 1855 - 2849 2071-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 5020 13397 - 5257 13566-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 1976 170 - 2205 360-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.333504,0,0,0.99254132,-307.40099,751.14261)"
+       id="polyline3606"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1803,3977 2564,3977 " />
+    <!-- Arrowhead on XXXpoint 1695 3977 - 2683 3977-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,537.79628,751.14261)"
+       id="polygon3608"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2552,4003 2552,4003 2660,3977 2552,3949 " />
+    <!-- Arrowhead on XXXpoint 2673 3977 - 1684 3977-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,300.48911,751.14261)"
+       id="polygon3610"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="1816,3949 1707,3977 1816,4003 1816,3949 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.78325841,0,0,0.74072176,873.43074,1654.6024)"
+       id="polyline3612"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2857,2880 2151,3585 " />
+    <!-- Arrowhead on XXXpoint 2151 3585 - 2941 2795-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,245.63468,964.5049)"
+       id="polygon3614"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2828,2869 2866,2907 2866,2907 2924,2812 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.54198553,432.32643,1862.064)"
+       id="polyline3616"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2966,707 2966,1279 " />
+    <!-- Arrowhead on XXXpoint 2966 598 - 2966 1398-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1284.5488)"
+       id="polygon3618"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2938,1266 2938,1266 2966,1375 2993,1266 " />
+    <!-- Arrowhead on XXXpoint 2966 1387 - 2966 587-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1551.2516)"
+       id="polygon3620"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2966,610 2938,719 2993,719 2993,719 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.73264447,0,0,0.75799042,1194.2215,1788.9567)"
+       id="polyline3622"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2999,4368 2670,4531 " />
+    <!-- Arrowhead on XXXpoint 2999 4368 - 2650 4541-->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,491.65323,732.0854)"
+       id="polyline3624"
+       style="stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="2729 4477 2661 4536 2748 4516 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.58418403,432.32643,2435.2497)"
+       id="polyline3626"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2999,4250 2999,4709 " />
+    <!-- Arrowhead on XXXpoint 2999 4141 - 2999 4828-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,511.11094)"
+       id="polygon3628"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2999,4805 3025,4697 2971,4697 2971,4697 " />
+    <!-- Arrowhead on XXXpoint 2999 4818 - 2999 4130-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,698.20054)"
+       id="polygon3630"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2999,4153 2971,4262 3025,4262 3025,4262 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.53783177,432.32643,2884.8859)"
+       id="polyline3632"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2999,5169 2999,5628 " />
+    <!-- Arrowhead on XXXpoint 2999 5060 - 2999 5748-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,324.41919)"
+       id="polygon3634"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2971,5616 2999,5725 3025,5616 2971,5616 " />
+    <!-- Arrowhead on XXXpoint 2999 5737 - 2999 5049-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,537.78119)"
+       id="polygon3636"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="3025,5181 2999,5073 2971,5181 3025,5181 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.65110963,432.32643,2469.4781)"
+       id="polyline3638"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2999,6074 2999,6592 " />
+    <!-- Arrowhead on XXXpoint 2999 5965 - 2999 6711-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,217.73819)"
+       id="polygon3640"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2971,6579 2999,6688 3025,6579 2971,6579 " />
+    <!-- Arrowhead on XXXpoint 2999 6700 - 2999 5954-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,377.75969)"
+       id="polygon3642"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2971,6086 3025,6086 3025,6086 2999,5977 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,111.05719)"
+       id="polyline3644"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="2999,7149 2999,7519 " />
+    <!-- Arrowhead on XXXpoint 2999 7041 - 2999 7638-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,84.386939)"
+       id="polygon3646"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2971,7507 2971,7507 2999,7615 3025,7507 " />
+    <!-- Arrowhead on XXXpoint 2999 7628 - 2999 7030-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,137.72744)"
+       id="polygon3648"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2999,7053 2971,7162 3025,7162 3025,7162 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.3007829,0,0,0.99254132,-618.94689,1551.2516)"
+       id="polyline3650"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="3368,521 4063,521 " />
+    <!-- Arrowhead on XXXpoint 3259 521 - 4183 521-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,661.36585,1545.6433)"
+       id="polygon3652"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="4051,494 4051,548 4051,548 4160,521 " />
+    <!-- Arrowhead on XXXpoint 4172 521 - 3248 521-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1551.2516)"
+       id="polygon3654"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="3272,521 3380,548 3380,494 3380,494 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.63155509,432.32643,1785.1727)"
+       id="polyline3656"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="5867,651 5867,1456 " />
+    <!-- Arrowhead on XXXpoint 5867 651 - 5867 1575-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1284.5488)"
+       id="polygon3658"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="5840,1443 5840,1443 5867,1552 5894,1443 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.3600394,0,0,1.2887296,-1550.6525,576.54456)"
+       id="polyline3660"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="5472,2034 5342,2387 " />
+    <!-- Arrowhead on XXXpoint 5509 1932 - 5301 2499-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1284.5488)"
+       id="polygon3662"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="5321,2366 5321,2366 5309,2478 5372,2384 " />
+    <!-- Arrowhead on XXXpoint 5306 2489 - 5512 1921-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,482.60337,1183.5987)"
+       id="polygon3664"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="5492,2054 5504,1943 5441,2036 5492,2054 " />
+    <!-- Line -->
+    <polyline
+       transform="matrix(1.2391688,0,0,1.2267285,-1126.8937,727.62541)"
+       id="polyline3666"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="6093,2022 6221,2375 " />
+    <!-- Arrowhead on XXXpoint 6056 1920 - 6262 2487-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,432.32643,1284.5488)"
+       id="polygon3668"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="6191,2372 6191,2372 6254,2465 6242,2354 " />
+    <!-- Arrowhead on XXXpoint 6258 2477 - 6051 1909-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,404.39479,1222.8572)"
+       id="polygon3670"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="6121,2023 6059,1931 6071,2042 6121,2023 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 1520 8655 - 1790 8453-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 1776 10135 - 1500 10034-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 6519 7758 - 6519 8356-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 7009 10464 - 7312 10362-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 4452 10457 - 4755 10356-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 7294 13234 - 7538 13032-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 880 5867 - 880 5139-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 1564 1499 - 2749 1499-->
+    <!-- Arrowhead on XXXpoint 2738 1499 - 1553 1499-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,-501.40482,51.077278)"
+       id="polyline3706"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="5427,8295 5614,8482 " />
+    <!-- Arrowhead on XXXpoint 5427 8295 - 5630 8498-->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,-527.77224,24.605953)"
+       id="polyline3708"
+       style="stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="5543 8443 5621 8490 5575 8412 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 1049 4746 - 1379 4084-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.99441464,0.15986542,-0.19627857,0.80993317,1466.9201,1391.8066)"
+       id="polyline3714"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="1164,4554 1376,4378 " />
+    <!-- Arrowhead on XXXpoint 1164 4554 - 1393 4363-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 1173 4107 - 842 4768-->
+    <!-- Arrowhead on XXXpoint 847 4759 - 1177 4097-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 1043 4335 - 767 4234-->
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,78.61653,57.716688)"
+       id="polyline3728"
+       style="stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="912,9094 1164,9283 " />
+    <!-- Arrowhead on XXXpoint 912 9094 - 1182 9297-->
+    <polyline
+       transform="matrix(0.98864707,0,0,0.99254132,78.61653,57.716688)"
+       id="polyline3730"
+       style="stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="1090 9255 1172 9289 1116 9220 " />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 423 8997 - 693 8795-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 3249 8543 - 3023 8304-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 2999 8345 - 3268 8143-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 8280 13006 - 8516 13175-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 6228 11261 - 5880 11434-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 6356 11539 - 6221 11268-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 7858 13445 - 7509 13618-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 1434 13984 - 1770 14051-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 1645 13777 - 1376 13979-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 1108 5606 - 882 5367-->
+    <!-- Line: box -->
+    <rect
+       id="rect3772"
+       style="stroke:#000000;stroke-width:4.54583836;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="57.244671"
+       height="247.67795"
+       width="711.79224"
+       y="9511.4434"
+       x="10360.066" />
+    <!-- Line: box -->
+    <rect
+       id="rect3774"
+       style="stroke:#000000;stroke-width:4.54907608;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="49.461811"
+       height="287.05878"
+       width="572.7157"
+       y="9127.8428"
+       x="10488.892" />
+    <!-- Line: box -->
+    <rect
+       id="rect3776"
+       style="stroke:#000000;stroke-width:4.9268465;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="51.554298"
+       height="323.04843"
+       width="618.65155"
+       y="8307.4844"
+       x="10464.628" />
+    <!-- Line: box -->
+    <!-- Line: box -->
+    <rect
+       id="rect3780"
+       style="stroke:#000000;stroke-width:4.90163422;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="50.976639"
+       height="323.37399"
+       width="655.31818"
+       y="14131.554"
+       x="-1363.5178" />
+    <!-- Line: box -->
+    <!-- Line: box -->
+    <rect
+       id="rect3784"
+       style="stroke:#000000;stroke-width:5.47085857;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="63.567673"
+       height="323.04953"
+       width="708.44501"
+       y="6742.2373"
+       x="10370.543" />
+    <!-- Line: box -->
+    <rect
+       id="rect3786"
+       style="stroke:#000000;stroke-width:5.83518934;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="72.397392"
+       height="322.68704"
+       width="806.84991"
+       y="5326.7979"
+       x="10263.774" />
+    <!-- Line: box -->
+    <g
+       id="g5424"
+       transform="translate(-86.934496,212.36844)">
+      <text
+         xml:space="preserve"
+         x="-1088.547"
+         y="7002.8774"
+         font-style="normal"
+         font-weight="normal"
+         font-size="209"
+         id="text3050"
+         style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+         transform="scale(0.99803636,1.0019675)">h2_ex</text>
+      <rect
+         x="-1148.3359"
+         y="6821.502"
+         width="620.56598"
+         height="284.0921"
+         rx="55.682426"
+         style="stroke:#000000;stroke-width:4.37768745;stroke-linecap:butt;stroke-linejoin:miter"
+         id="rect3788" />
+    </g>
+    <!-- Line: box -->
+    <rect
+       id="rect3790"
+       style="stroke:#000000;stroke-width:5.0459981;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="70.137383"
+       height="299.66254"
+       width="781.6626"
+       y="6299.9712"
+       x="10290.625" />
+    <!-- Line: box -->
+    <rect
+       id="rect3792"
+       style="stroke:#000000;stroke-width:5.7122097;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="69.351982"
+       height="322.80774"
+       width="772.90955"
+       y="5893.7637"
+       x="10298.773" />
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint -325 5998 - 369 5998-->
+    <!-- Arrowhead on XXXpoint 358 5998 - -336 5998-->
+    <!-- Line: box -->
+    <!-- Line: box -->
+    <rect
+       id="rect3802"
+       style="stroke:#000000;stroke-width:6.58763456;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="104.79974"
+       height="284.11441"
+       width="583.29327"
+       y="11878.827"
+       x="10485.766" />
+    <!-- Line -->
+    <polyline
+       transform="matrix(3.028735,0,0,0.99254132,-1291.0291,1524.9331)"
+       id="polyline3804"
+       style="stroke:#000000;stroke-width:4.03796911;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="651,586 934,586 " />
+    <!-- Arrowhead on XXXpoint 651 586 - 1054 586-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,613.61189,1525.4524)"
+       id="polygon3806"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="922,613 922,613 1030,586 922,559 " />
+    <!-- Line: box -->
+    <!-- Line -->
+    <polyline
+       transform="matrix(0.66101594,0,0,0.99254132,-280.08178,1311.1094)"
+       id="polyline3810"
+       style="stroke:#000000;stroke-width:9.26318073;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="-391,782 86,782 " />
+    <!-- Arrowhead on XXXpoint -391 782 - 206 782-->
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,-334.85453,1304.4624)"
+       id="polygon3812"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="74,754 74,809 183,782 " />
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3814"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="8809.666"
+       x="2860.7881"
+       xml:space="preserve">atp</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3816"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="9404.6367"
+       x="2489.9294"
+       xml:space="preserve">co2,</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3818"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="12263.681"
+       x="783.19635"
+       xml:space="preserve">mal_*L</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3820"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="8044.6875"
+       x="1467.6761"
+       xml:space="preserve">co2</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3826"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="14272.014"
+       x="3819.7615"
+       xml:space="preserve">atp</text>
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3830"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="12971.854"
+       x="5792.6304"
+       xml:space="preserve">co2, </text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3832"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="8246.915"
+       x="4684.5923"
+       xml:space="preserve">nadh</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3840"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="5955.0889"
+       x="2898.7542"
+       xml:space="preserve">atp</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3842"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="5476.2729"
+       x="3135.2405"
+       xml:space="preserve">13dpg</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3844"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="4575.7422"
+       x="5228.5503"
+       xml:space="preserve">s7p</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3846"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="1813.6858"
+       x="4007.3193"
+       xml:space="preserve">nadph</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3848"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="2117.5007"
+       x="4865.4062"
+       xml:space="preserve">6pgl</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3850"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="2117.5007"
+       x="6050.79"
+       xml:space="preserve">6pgc</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3852"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="2550.6318"
+       x="6453.1533"
+       xml:space="preserve">nadph,co2</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3854"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="2470.5933"
+       x="2332.3015"
+       xml:space="preserve">atp</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3862"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="5307.8291"
+       x="2823.1882"
+       xml:space="preserve">nadh</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3868"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="9911.3838"
+       x="6838.4097"
+       xml:space="preserve">nadh</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Times New Roman';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+       id="text3876"
+       font-size="148px"
+       font-weight="normal"
+       font-style="normal"
+       y="5080.0874"
+       x="1851.8826"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6171"
+         x="1851.8826"
+         y="5080.0874"
+         style="font-size:146.608px;line-height:0">nad(p)h</tspan></text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3878"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="9384.127"
+       x="1008.105"
+       xml:space="preserve">co2,nadh</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3888"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="10838.907"
+       x="7677.0444"
+       xml:space="preserve">amp</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3890"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="11139.133"
+       x="7068.4292"
+       xml:space="preserve">adp</text>
+    <!-- Text -->
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000"
+       id="text3892"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="10831.801"
+       x="7159.0879"
+       xml:space="preserve">adp</text>
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <!-- Text -->
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="2071.7004"
+       x="670.44385"
+       xml:space="preserve">GLCt2pp</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-02"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="2079.7036"
+       x="2316.8442"
+       xml:space="preserve">Hex1</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="2189.3831"
+       x="3831.6897"
+       xml:space="preserve">G6PDH2r</text>
+    <polyline
+       id="polyline3592-1"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="2390 251 2444 179 2363 218 "
+       transform="matrix(0.98864707,0,0,0.99254132,1599.8031,1670.6772)" />
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="2178.7034"
+       x="5278.7383"
+       xml:space="preserve">PGL</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       inkscape:transform-center-y="-31.963201"
+       inkscape:transform-center-x="12.986446"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-9"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="2319.6975"
+       x="6271.8281"
+       xml:space="preserve">GND</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       inkscape:transform-center-y="-426.23322"
+       inkscape:transform-center-x="173.17616"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-9-7"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="2203.3469"
+       x="7620.5791"
+       xml:space="preserve">EDD</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       inkscape:transform-center-y="-426.23323"
+       inkscape:transform-center-x="173.17616"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-9-4"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="3360.9487"
+       x="5887.6118"
+       xml:space="preserve">RPE</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       inkscape:transform-center-y="-5683.8735"
+       inkscape:transform-center-x="2309.3256"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-9-4-7"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="3377.7412"
+       x="6523.6865"
+       xml:space="preserve">RPI</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       inkscape:transform-center-y="-5683.8735"
+       inkscape:transform-center-x="2309.3256"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-9-4-0"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="4327.042"
+       x="5903.2803"
+       xml:space="preserve">TKT1</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       inkscape:transform-center-y="-75795.167"
+       inkscape:transform-center-x="30795.147"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-9-4-0-6"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="4423.2222"
+       x="4410.0273"
+       xml:space="preserve">TKT2</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="2495.9756"
+       x="3399.1003"
+       xml:space="preserve">PGI</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-5"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="3327.5042"
+       x="3397.7454"
+       xml:space="preserve">FBP</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="4276.0537"
+       x="2720.9807"
+       xml:space="preserve">FBA</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="4814.2705"
+       x="2200.3184"
+       xml:space="preserve">TPI</text>
+    <polyline
+       id="polyline3592-0"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="2390 251 2444 179 2363 218 "
+       transform="matrix(1.1416496,0,0,0.54219924,-772.88967,5044.7727)" />
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-3-1-1-0"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="5368.6499"
+       x="1769.0063"
+       xml:space="preserve">G3PD2</text>
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       inkscape:transform-center-y="-5683.8736"
+       inkscape:transform-center-x="2309.3256"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-9-7-9"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="6273.1499"
+       x="6528.957"
+       xml:space="preserve">EDA</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="5051.8052"
+       x="3447.2739"
+       xml:space="preserve">GAPD</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="5821.3745"
+       x="3447.2786"
+       xml:space="preserve">PGK</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="6555.7661"
+       x="3430.136"
+       xml:space="preserve">PGM</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="7492.5312"
+       x="3511.2468"
+       xml:space="preserve">ENO</text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3064-2"
+       d="m 5589.7055,12409.796 a 992.25603,485.73687 80.84269 0 1 -86.3614,527.432"
+       style="fill:none;stroke:#000000;stroke-width:6.98791647;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none" />
+    <polygon
+       id="polygon3178-0"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="3025,8074 3025,8074 2999,7966 2971,8074 "
+       transform="matrix(0.98864707,0,0,0.99254132,2629.3583,4421.6234)" />
+    <polygon
+       id="polygon3174-5"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2830,8810 2775,8810 2775,8810 2803,8919 "
+       transform="matrix(0.98864707,0,0,0.99254132,2812.1786,3233.2197)" />
+    <polyline
+       id="polyline3598-4"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="5020,13397 5238,13553 "
+       transform="matrix(0.98864707,0,0,0.99254132,578.38351,-461.33982)" />
+    <polyline
+       id="polyline3600-1"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="5163 13526 5247 13559 5188 13490 "
+       transform="matrix(0.98864707,0,0,0.99254132,578.38351,-461.33982)" />
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="7715.5527"
+       x="2229.4539"
+       xml:space="preserve">PPC</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="8533.1826"
+       x="3059.0562"
+       xml:space="preserve">PYK</text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-5"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="9384.4893"
+       x="3017.4072"
+       xml:space="preserve">PDH</text>
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-5-5"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="9192.8018"
+       x="1471.3375"
+       xml:space="preserve">ME1</text>
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="8576.5596"
+       x="4282.6592"
+       xml:space="preserve">LDH_D</text>
+    <polyline
+       transform="matrix(0.78436863,0,0,1.8772404,3481.8893,-9788.111)"
+       id="polyline3688-9"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="4452,10457 4734,10362 " />
+    <polyline
+       inkscape:transform-center-x="42.555086"
+       inkscape:transform-center-y="-104.22011"
+       transform="matrix(0.90984288,-0.38831688,0.38679332,0.91342673,-1130.9146,2043.9897)"
+       id="polyline3690-3"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="4668 10407 4744 10359 4654 10366 " />
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-94"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="10237.991"
+       x="3532.9705"
+       xml:space="preserve">CS</text>
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       inkscape:transform-center-y="47072.787"
+       inkscape:transform-center-x="-21728.63"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="12785.16"
+       x="5595.7134"
+       xml:space="preserve">ICDHyr</text>
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       inkscape:transform-center-y="8370745.1"
+       inkscape:transform-center-x="-3863905.9"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="14656.272"
+       x="3406.2883"
+       xml:space="preserve">SUCOAS</text>
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-94-5-2-4"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="12630.768"
+       x="907.05243"
+       xml:space="preserve">FUM</text>
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3818-7"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="14325.282"
+       x="-104.73277"
+       xml:space="preserve">succ_e</text>
+    <polyline
+       transform="matrix(1.096442,0,0,-0.46192814,639.85539,21012.156)"
+       id="polyline3282-9"
+       style="fill:none;stroke:#000000;stroke-width:9.70764065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="1271,14473 -120,14473 " />
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,718.76759,-42.190483)"
+       id="polygon3284-2"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="-106,14446 -215,14473 -106,14500 -106,14446 " />
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,784.85071,153.30977)"
+       id="polygon3338-7"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="1182,14250 1182,14304 1182,14304 1291,14278 " />
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       inkscape:transform-center-y="3.5297963e+12"
+       inkscape:transform-center-x="-1.6293413e+12"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3-1-0-8-3-1"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="11609.244"
+       x="8545.3486"
+       xml:space="preserve">ATPS4rpp</text>
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       inkscape:transform-center-y="4.7070277e+13"
+       inkscape:transform-center-x="-2.172747e+13"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3-1-0-8-3-1-9"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="11606.015"
+       x="7462.1128"
+       xml:space="preserve">ATPM</text>
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       inkscape:transform-center-y="6.2768804e+14"
+       inkscape:transform-center-x="-2.8973854e+14"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-5-4-3-9-58-6-5-1-3-1-0-8-3-1-9-2"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="11233.437"
+       x="7463.7046"
+       xml:space="preserve">ADK1</text>
+    <polygon
+       id="polygon3350-3"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="6785,12083 6785,12083 6813,12181 6839,12083 "
+       transform="matrix(0.98864707,0,0,0.99254132,1472.9324,-717.18905)" />
+    <polyline
+       id="polyline3692-6"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="7294,13234 7520,13046 "
+       transform="matrix(0.98403858,0,0,1.3781043,370.03366,-7102.0912)" />
+    <polyline
+       id="polyline3706-2"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="5427,8295 5614,8482 "
+       transform="matrix(1.0253615,0,0,1.2287855,1781.9952,710.35495)" />
+    <polyline
+       id="polyline3324-6"
+       style="fill:none;stroke:#000000;stroke-width:9.4749155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="5183,9029 5183,8768 6878,8768 "
+       transform="matrix(-0.53426775,0,0,0.7367149,10981.819,4680.1946)" />
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       inkscape:transform-center-y="52.571034"
+       inkscape:transform-center-x="-12.567553"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3844-1"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="3927.7317"
+       x="5018.3911"
+       xml:space="preserve">xu5p_*D</text>
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3830-0"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="13087.866"
+       x="5764.6812"
+       xml:space="preserve">nadph</text>
+    <rect
+       id="rect3778-2"
+       style="fill:none;stroke:#000000;stroke-width:5.80599785;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="71.695953"
+       height="322.59198"
+       width="860.35144"
+       y="1920.1533"
+       x="-1398.8856" />
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;font-family:'Times New Roman';text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3818-7-7"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="16089.17"
+       x="909.81482"
+       xml:space="preserve" />
+    <rect
+       id="rect3368-1"
+       style="fill:none;stroke:#000000;stroke-width:5.74342203;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="77.121559"
+       height="13421.851"
+       width="10088.716"
+       y="1410.542"
+       x="-287.11771" />
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,490.96948,-817.20626)"
+       id="polygon3302-0"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="7998,12419 8107,12446 8107,12392 8107,12392 " />
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,-579.11016,-817.20627)"
+       id="polygon3302-0-6"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="8107,12446 8107,12392 8107,12392 7998,12419 " />
+    <polygon
+       transform="matrix(0.98864707,0,0,0.99254132,-597.4209,-1190.9917)"
+       id="polygon3302-0-6-0"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="8107,12392 7998,12419 8107,12446 8107,12392 " />
+    <polyline
+       transform="matrix(0.98051578,0.12703639,-0.12653796,0.984378,5411.9624,2316.1955)"
+       id="polyline3738-3-5"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="3106 8361 3031 8313 3075 8390 " />
+    <polyline
+       inkscape:transform-center-y="-3.2344278"
+       inkscape:transform-center-x="-2.8684156"
+       transform="matrix(0.9003395,-0.41003482,0.40842604,0.9038859,1777.4636,4353.9479)"
+       id="polyline3544-4"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:8"
+       points="2555 8574 2487 8632 2574 8613 " />
+    <polygon
+       transform="matrix(-0.98836585,0.02367225,-0.02357937,-0.99225899,11363.951,20206.763)"
+       id="polygon3178-5"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="3025,8074 2999,7966 2971,8074 3025,8074 " />
+    <polyline
+       transform="matrix(1.5470217,0,0,0.99254131,-4359.8351,-1563.2788)"
+       id="polyline3332-1"
+       style="fill:none;stroke:#000000;stroke-width:4.79713631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="8312,13169 8823,13169 " />
+    <text
+       transform="scale(0.99803635,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3026-7"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="11540.891"
+       x="9405.0879"
+       xml:space="preserve">h_p</text>
+    <polyline
+       transform="matrix(0.01204178,0.41584956,-3.6034215,0.00224117,55813.299,9100.8564)"
+       id="polyline3320-9"
+       style="fill:none;stroke:#000000;stroke-width:4.85595894;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="7562,13234 7181,13234 " />
+    <text
+       transform="scale(0.99803637,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3816-8"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="9551.7451"
+       x="2469.6777"
+       xml:space="preserve">nadh</text>
+    <polygon
+       id="polygon3682-5-2"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="6546,8224 6492,8224 6492,8224 6519,8332 "
+       transform="matrix(0.98864713,0,0,0.99254125,1652.3814,-2286.2556)" />
+    <polyline
+       transform="matrix(0.98864713,0,0,0.86105861,851.1044,418.39752)"
+       id="polyline3696-9"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="880,5867 880,5258 " />
+    <polygon
+       inkscape:transform-center-x="2.4103058"
+       transform="matrix(0.98864713,0,0,0.99254125,851.664,-275.1261)"
+       id="polygon3698-7"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="880,5162 852,5271 906,5271 906,5271 " />
+    <polygon
+       transform="matrix(0.98864713,0,0,0.99254125,-1241.1608,-185.16643)"
+       id="polygon3634-0"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="2971,5616 2999,5725 3025,5616 2971,5616 " />
+    <polyline
+       transform="matrix(0.4241974,0,0,0.99254137,5890.1515,-1482.0077)"
+       id="polyline3340-3-6"
+       style="fill:none;stroke:#000000;stroke-width:8.93980503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="7019,8475 9964,8475 " />
+    <polyline
+       transform="matrix(0.4241974,0,0,0.99254137,5890.1515,-1947.0029)"
+       id="polyline3340-3-1"
+       style="fill:none;stroke:#000000;stroke-width:8.93980503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="7019,8475 9964,8475 " />
+    <polyline
+       transform="matrix(0.13010133,0,0,0.99254137,8822.5356,-2352.8575)"
+       id="polyline3340-3-60"
+       style="fill:none;stroke:#000000;stroke-width:8.93980503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="7019,8475 9964,8475 " />
+    <polyline
+       transform="matrix(0.4241974,0,0,0.99254137,5890.1515,-2918.7338)"
+       id="polyline3340-3-9"
+       style="fill:none;stroke:#000000;stroke-width:8.93980503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="7019,8475 9964,8475 " />
+    <text
+       transform="scale(0.99803637,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:146.608px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#0066ff;stroke-width:0.025in"
+       id="text3386-2-7-3-7-3-8-3-7-2-0-1-5-4-3-1-53-3-4-7-4"
+       font-size="148"
+       font-weight="normal"
+       font-style="normal"
+       y="5467.0806"
+       x="9269.0127"
+       xml:space="preserve">Growth</text>
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,261.7557,-1482.6357)"
+       id="polygon3342-1"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="9951,8502 9951,8502 10060,8475 9951,8448 " />
+    <polygon
+       transform="matrix(-0.98864712,0,0,-0.99254137,18806.434,15329.025)"
+       id="polygon3342-3"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="9951,8448 9951,8502 9951,8502 10060,8475 " />
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,261.7557,-1947.6677)"
+       id="polygon3342-0"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="9951,8448 9951,8502 9951,8502 10060,8475 " />
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,261.7557,-2353.5406)"
+       id="polygon3342-2"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="9951,8448 9951,8502 9951,8502 10060,8475 " />
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,261.7557,-2919.4354)"
+       id="polygon3342-8"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="9951,8502 10060,8475 9951,8448 9951,8502 " />
+    <text
+       transform="scale(0.99803637,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3026-7-7"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="6094.5854"
+       x="9406.7441"
+       xml:space="preserve">h_e</text>
+    <text
+       transform="scale(0.99803637,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3052-3"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="6501.3579"
+       x="8455.2832"
+       xml:space="preserve">h2o</text>
+    <text
+       transform="scale(0.99803637,1.0019675)"
+       style="font-style:normal;font-weight:normal;font-size:207.034px;line-height:0%;font-family:'Times New Roman';text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3046-0"
+       font-size="209"
+       font-weight="normal"
+       font-style="normal"
+       y="6953.8281"
+       x="8463.7783"
+       xml:space="preserve">co2</text>
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,405.83369,1742.3535)"
+       id="polygon3280-1"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="9995,10366 9886,10338 9886,10393 9886,10393 " />
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,389.94133,-653.78217)"
+       id="polygon3208-4"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="9919,9219 9919,9219 10028,9192 9919,9165 " />
+    <polygon
+       transform="matrix(-0.98864712,0,0,-0.99254137,18802.612,14876.676)"
+       id="polygon3342-3-9"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="10060,8475 9951,8448 9951,8502 9951,8502 " />
+    <polyline
+       transform="matrix(0.23010879,0,0,-0.97111024,-2136.1922,15437.981)"
+       id="polyline3340-6"
+       style="fill:none;stroke:#000000;stroke-width:5.99838352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="7019,8475 9964,8475 " />
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,-326.92308,-7158.0739)"
+       id="polygon3284-2-1"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="-106,14446 -106,14446 -215,14473 -106,14500 " />
+    <text
+       transform="scale(0.99803637,1.0019675)"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Times New Roman';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3032-0"
+       font-size="209px"
+       font-weight="normal"
+       font-style="normal"
+       y="7726.2842"
+       x="217.13402"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6109"
+         x="217.13402"
+         y="7726.2842"
+         style="font-size:207.034px;line-height:0">n2</tspan></text>
+    <text
+       transform="scale(0.99803636,1.0019675)"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Times New Roman';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3050-6"
+       font-size="209px"
+       font-weight="normal"
+       font-style="normal"
+       y="7687.8892"
+       x="-1171.1812"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6107"
+         x="-1171.1812"
+         y="7687.8892"
+         style="font-size:207.034px;line-height:0">n2_ex</tspan></text>
+    <rect
+       id="rect3788-6"
+       style="fill:none;stroke:#000000;stroke-width:4.37768745;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="55.682426"
+       height="284.0921"
+       width="620.56598"
+       y="7507.8662"
+       x="-1230.8077" />
+    <polyline
+       transform="matrix(0.23010879,0,0,-0.97111023,-2131.7295,15911.974)"
+       id="polyline3340-6-3"
+       style="fill:none;stroke:#000000;stroke-width:5.99838352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="7019,8475 9964,8475 " />
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,-322.46033,-6684.08)"
+       id="polygon3284-2-1-5"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="-215,14473 -106,14500 -106,14446 -106,14446 " />
+    <text
+       transform="scale(0.99803637,1.0019675)"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Times New Roman';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3032-0-2"
+       font-size="209px"
+       font-weight="normal"
+       font-style="normal"
+       y="6811.3511"
+       x="1330.2555"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6147"
+         x="1330.2555"
+         y="6811.3511"
+         style="font-size:207.034px;line-height:0">nh4</tspan></text>
+    <text
+       transform="scale(0.99803637,1.0019675)"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Times New Roman';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.025in"
+       id="text3050-6-6"
+       font-size="209px"
+       font-weight="normal"
+       font-style="normal"
+       y="6779.104"
+       x="-1242.9408"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan6149"
+         x="-1242.9408"
+         y="6779.104"
+         style="font-size:207.034px;line-height:0">nh4_ex</tspan></text>
+    <rect
+       id="rect3788-6-6"
+       style="fill:none;stroke:#000000;stroke-width:4.6714592;stroke-linecap:butt;stroke-linejoin:miter"
+       rx="63.472122"
+       height="283.79834"
+       width="707.38013"
+       y="6597.4375"
+       x="-1302.2797" />
+    <polyline
+       transform="matrix(0.55710573,0,0,-3.0805939,-4416.5141,32882.357)"
+       id="polyline3340-6-3-8"
+       style="fill:none;stroke:#000000;stroke-width:2.16815669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       points="7019,8475 9964,8475 " />
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,-333.10327,-7599.01)"
+       id="polygon3284-2-1-5-1"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="-106,14500 -106,14446 -106,14446 -215,14473 " />
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,908.93546,819.05569)"
+       id="polygon3796-8"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="237,5970 237,6024 237,6024 346,5998 " />
+    <polyline
+       transform="matrix(0.45867031,0,0,0.99254137,3399.8554,-842.072)"
+       id="polyline3212-9"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="4847,10366 3781,10366 " />
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,859.58661,-840.72551)"
+       id="polygon3214-5"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="4833,10393 4942,10366 4833,10338 4833,10393 " />
+    <g
+       id="g6444"
+       transform="matrix(0.97179582,-0.22005955,0.23583614,0.90678617,-9484.7054,4402.2173)">
+      <polygon
+         points="3771,10251 3771,10251 3718,10177 3719,10268 "
+         style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+         id="polygon3250-6"
+         transform="matrix(0.67557198,-0.72466418,0.721821,0.67823301,1672.8245,3758.8099)" />
+      <polyline
+         transform="matrix(3.4175737,0,0,2.0923343,220.21939,-11362.885)"
+         points="3716,9583 3325,9257 "
+         style="fill:none;stroke:#000000;stroke-width:2.30838752;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         id="polyline3220-1-5" />
+    </g>
+    <polyline
+       transform="matrix(3.5236615,0.45952275,-0.70217585,2.0705034,-16582.569,301.27187)"
+       id="polyline3660-4"
+       style="fill:none;stroke:#000000;stroke-width:2.45430418;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;marker-start:"
+       points="5472,2034 5342,2387 " />
+    <polyline
+       id="polyline3706-2-8"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter"
+       points="5427,8295 5614,8482 "
+       transform="matrix(1.2505578,-0.17866171,0.21288751,1.5072428,-7998.7822,-4329.882)" />
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,-1408.1351,146.27774)"
+       id="polygon3338-7-7"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="1182,14250 1182,14304 1182,14304 1291,14278 " />
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,-1100.162,-6487.4621)"
+       id="polygon3338-7-7-7"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="1182,14304 1182,14304 1291,14278 1182,14250 " />
+    <polygon
+       transform="matrix(0.98864712,0,0,0.99254137,-1109.4012,-6967.9)"
+       id="polygon3338-7-7-7-7"
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       points="1182,14304 1291,14278 1182,14250 1182,14304 " />
+    <text
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:533.40501068px;white-space:pre;shape-inside:url(#rect1256);"
+       id="text1254"
+       xml:space="preserve" />
+    <polygon
+       points="4435,2715 4540,2675 4429,2662 "
+       style="fill:#000000;stroke:#000000;stroke-width:11;stroke-miterlimit:8"
+       id="polygon2402"
+       transform="matrix(0.76350901,-0.62807406,0.63054802,0.76651644,-3825.7686,7762.031)" />
+  </g>
+</svg>
