@@ -268,7 +268,34 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_26dap__LL_c" name="LL-2,6-Diaminoheptanedioate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_26dap_LL_c" sboTerm="SBO:0000247" id="M_26dap_LL_c" name="LL-2,6-Diaminoheptanedioate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C7H14N2O4">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_26dap_LL_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/26dap_LL"/>
+                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:LL-DIAMINOPIMELATE"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:21428"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:6341"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:21429"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16026"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:57609"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:13192"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:47031"/>
+                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB01370"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchi_key/GMKMEZVLHJARHF-WHFBIAKZSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00666"/>
+                  <rdf:li rdf:resource="https://identifiers.org/lipidmaps/LMFA01170102"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM644"/>
+                  <rdf:li rdf:resource="https://identifiers.org/sabiork/5171"/>
+                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00504"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
       <species metaid="meta_M_26dap__M_c" sboTerm="SBO:0000247" id="M_26dap__M_c" name="Meso-2,6-Diaminoheptanedioate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C7H14N2O4">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -2478,7 +2505,34 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_acon__C_c" name="cis-Aconitate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_acon_C_c" sboTerm="SBO:0000247" id="M_acon_C_c" name="cis-Aconitate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C6H3O6">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_acon_C_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/acon_C"/>
+                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:CIS-ACONITATE"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:23306"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16383"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:12798"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:32805"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:23308"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:10482"/>
+                  <rdf:li rdf:resource="https://identifiers.org/envipath/32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/643481e5-a35b-477e-8665-70f4dca66baa"/>
+                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB00461"/>
+                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB00072"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchi_key/GTZCVFVGUGFEME-IWQZZHSRSA-K"/>
+                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00417"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM813"/>
+                  <rdf:li rdf:resource="https://identifiers.org/sabiork/2043"/>
+                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00331"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
       <species metaid="meta_M_acorn_c" sboTerm="SBO:0000247" id="M_acorn_c" name="N2-Acetyl-L-ornithine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C7H14N2O3">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -2813,7 +2867,37 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_ala__B_c" name="beta-Alanine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_ala_B_c" sboTerm="SBO:0000247" id="M_ala_B_c" name="beta-Alanine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H7NO2">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_ala_B_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/ala_B"/>
+                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:B-ALANINE"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:12389"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:63070"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16958"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:22821"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:10343"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:57966"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:41050"/>
+                  <rdf:li rdf:resource="https://identifiers.org/envipath/650babc9-9d68-4b73-9332-11972ca26f7b/compound/0352ab69-1208-420e-b7c9-87b5b436f4df"/>
+                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB00056"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchi_key/UCMIRNVEIXFBKS-UHFFFAOYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00099"/>
+                  <rdf:li rdf:resource="https://identifiers.org/kegg.drug/D07561"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM144"/>
+                  <rdf:li rdf:resource="https://identifiers.org/reactome.compound/73590"/>
+                  <rdf:li rdf:resource="https://identifiers.org/reactome.compound/909777"/>
+                  <rdf:li rdf:resource="https://identifiers.org/sabiork/1932"/>
+                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00085"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
       <species metaid="meta_M_ala__D_c" sboTerm="SBO:0000247" id="M_ala__D_c" name="D-Alanine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C3H7NO2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -4144,8 +4228,63 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_dad__2_c" name="Deoxyadenosine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_dad__5_c" name="5#-Deoxyadenosine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_dad_2_c" sboTerm="SBO:0000247" id="M_dad_2_c" name="Deoxyadenosine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C10H13N5O3">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_dad_2_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dad_2"/>
+                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:DEOXYADENOSINE"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:19234"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:4405"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:40560"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17256"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:14112"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:40535"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:40565"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:39863"/>
+                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB05778"/>
+                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB00101"/>
+                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB11722"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchi_key/OLXZPDWKRNYJJZ-RRKCRQDMSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00559"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM625"/>
+                  <rdf:li rdf:resource="https://identifiers.org/sabiork/1874"/>
+                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00438"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_M_dad_5_c" sboTerm="SBO:0000247" id="M_dad_5_c" name="5#-Deoxyadenosine" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="C10H13N5O3">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_dad_5_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/dad_5"/>
+                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:CH33ADO"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:17319"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:12061"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:1960"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:40099"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:20493"/>
+                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB01983"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchi_key/XGYIMTFOTBMPFP-KQYNXXCUSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C05198"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM316"/>
+                  <rdf:li rdf:resource="https://identifiers.org/reactome.compound/1130791"/>
+                  <rdf:li rdf:resource="https://identifiers.org/reactome.compound/947703"/>
+                  <rdf:li rdf:resource="https://identifiers.org/sabiork/2720"/>
+                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd03091"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
       <species metaid="meta_M_dadp_c" sboTerm="SBO:0000247" id="M_dadp_c" name="DADP C10H12N5O9P2" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C10H12N5O9P2">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -6517,8 +6656,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/reactome.compound/372511"/>
                   <rdf:li rdf:resource="https://identifiers.org/sabiork/39"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00067"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmin/1.0"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmax/1.0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -6638,8 +6775,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd27222"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00001"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15275"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmin/1.0"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmax/1.0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -7389,9 +7524,48 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_iscu__2fe2s_c" name="IscUwithbound[2Fe-2S]cluster" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_iscu__2fe2s2_c" name="IscUwithtwobound[2Fe-2S]clusters" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_iscu__4fe4s_c" name="IscUwithbound[4Fe-4S]cluster" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_iscu_2fe2s_c" sboTerm="SBO:0000247" id="M_iscu_2fe2s_c" name="IscUwithbound[2Fe-2S]cluster" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="H4O2S8Fe2R">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_iscu_2fe2s_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/iscu_2fe2s"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM147129"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_M_iscu_2fe2s2_c" sboTerm="SBO:0000247" id="M_iscu_2fe2s2_c" name="IscUwithtwobound[2Fe-2S]clusters" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-4" fbc:chemicalFormula="O2S10Fe4R">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_iscu_2fe2s2_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/iscu_2fe2s2"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM148287"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_M_iscu_4fe4s_c" sboTerm="SBO:0000247" id="M_iscu_4fe4s_c" name="IscUwithbound[4Fe-4S]cluster" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="H4O2S10Fe4R">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_iscu_4fe4s_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/iscu_4fe4s"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM148286"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
       <species metaid="meta_M_k_c" sboTerm="SBO:0000247" id="M_k_c" name="Potassium" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="1" fbc:chemicalFormula="K">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -11986,8 +12160,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/reactome.compound/372511"/>
                   <rdf:li rdf:resource="https://identifiers.org/sabiork/39"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00067"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmin/1.0"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmax/1.0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -12083,8 +12255,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd27222"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00001"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15275"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmin/1.0"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmax/1.0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13059,8 +13229,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/reactome.compound/372511"/>
                   <rdf:li rdf:resource="https://identifiers.org/sabiork/39"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00067"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmin/1.0"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmax/1.0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -13156,8 +13324,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd27222"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00001"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15275"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmin/1.0"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmax/1.0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -15693,7 +15859,7 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_dad__5_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dad_5_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
@@ -16906,7 +17072,7 @@
           <speciesReference species="M_cit_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_acon__C_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_acon_C_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -16937,7 +17103,7 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_acon__C_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_acon_C_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
@@ -18418,7 +18584,7 @@
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_ala__B_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_ala_B_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_co2_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -19025,7 +19191,7 @@
         <listOfProducts>
           <speciesReference species="M_2fe1s_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_btn_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_dad__5_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dad_5_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_met__L_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
@@ -19942,7 +20108,7 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_co2_c" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_dad__5_c" stoichiometry="2" constant="true"/>
+          <speciesReference species="M_dad_5_c" stoichiometry="2" constant="true"/>
           <speciesReference species="M_met__L_c" stoichiometry="2" constant="true"/>
           <speciesReference species="M_pppg9_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
@@ -20571,7 +20737,7 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_26dap__LL_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_26dap_LL_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_26dap__M_c" stoichiometry="1" constant="true"/>
@@ -26326,7 +26492,7 @@
         <listOfProducts>
           <speciesReference species="M_h_c" stoichiometry="4" constant="true"/>
           <speciesReference species="M_iscs_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_iscu__2fe2s_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_iscu_2fe2s_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -26358,7 +26524,7 @@
           <speciesReference species="M_fad_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="6" constant="true"/>
           <speciesReference species="M_iscs_c" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_iscu__2fe2s_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_iscu_2fe2s_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -26385,13 +26551,13 @@
           <speciesReference species="M_fadh2_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_fe2_c" stoichiometry="2" constant="true"/>
           <speciesReference species="M_iscssh_c" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_iscu__2fe2s_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_iscu_2fe2s_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_fad_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="6" constant="true"/>
           <speciesReference species="M_iscs_c" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_iscu__2fe2s2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_iscu_2fe2s2_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -26416,7 +26582,7 @@
         </annotation>
         <listOfReactants>
           <speciesReference species="M_h_c" stoichiometry="4" constant="true"/>
-          <speciesReference species="M_iscu__2fe2s_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_iscu_2fe2s_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_2fe2s_c" stoichiometry="1" constant="true"/>
@@ -26445,11 +26611,11 @@
         <listOfReactants>
           <speciesReference species="M_fadh2_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="2" constant="true"/>
-          <speciesReference species="M_iscu__2fe2s2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_iscu_2fe2s2_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_fad_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_iscu__4fe4s_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_iscu_4fe4s_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_b2529"/>
@@ -26470,7 +26636,7 @@
         </annotation>
         <listOfReactants>
           <speciesReference species="M_h_c" stoichiometry="4" constant="true"/>
-          <speciesReference species="M_iscu__4fe4s_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_iscu_4fe4s_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_4fe4s_c" stoichiometry="1" constant="true"/>
@@ -29908,7 +30074,7 @@
           <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_dad__2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dad_2_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -30559,7 +30725,7 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_ala__B_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_ala_B_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_atp_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pant__R_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -32826,7 +32992,7 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_dad__2_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dad_2_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
@@ -33435,7 +33601,7 @@
           <speciesReference species="M_sl26da_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_26dap__LL_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_26dap_LL_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_succ_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -34637,7 +34803,7 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_4crsol_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_dad__5_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_dad_5_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_dhgly_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_met__L_c" stoichiometry="1" constant="true"/>

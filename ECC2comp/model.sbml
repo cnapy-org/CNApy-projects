@@ -343,7 +343,34 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species id="M_acon__C_c" name="cis-Aconitate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
+      <species metaid="meta_M_acon_C_c" sboTerm="SBO:0000247" id="M_acon_C_c" name="cis-Aconitate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-3" fbc:chemicalFormula="C6H3O6">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_acon_C_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/acon_C"/>
+                  <rdf:li rdf:resource="https://identifiers.org/biocyc/META:CIS-ACONITATE"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:23306"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:16383"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:12798"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:32805"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:23308"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:10482"/>
+                  <rdf:li rdf:resource="https://identifiers.org/envipath/32de3cf4-e3e6-4168-956e-32fa5ddb0ce1/compound/643481e5-a35b-477e-8665-70f4dca66baa"/>
+                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB00461"/>
+                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB00072"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchi_key/GTZCVFVGUGFEME-IWQZZHSRSA-K"/>
+                  <rdf:li rdf:resource="https://identifiers.org/kegg.compound/C00417"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metanetx.chemical/MNXM813"/>
+                  <rdf:li rdf:resource="https://identifiers.org/sabiork/2043"/>
+                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00331"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
       <species metaid="meta_M_actp_c" sboTerm="SBO:0000247" id="M_actp_c" name="Acetyl phosphate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C2H3O5P">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -1527,8 +1554,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/reactome.compound/372511"/>
                   <rdf:li rdf:resource="https://identifiers.org/sabiork/39"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00067"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmin/1.0"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmax/1.0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1574,7 +1599,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/reactome.compound/372511"/>
                   <rdf:li rdf:resource="https://identifiers.org/sabiork/39"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00067"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmin/1.0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1620,8 +1644,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/reactome.compound/372511"/>
                   <rdf:li rdf:resource="https://identifiers.org/sabiork/39"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00067"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmin/1.0"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmax/1.0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1745,8 +1767,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd27222"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00001"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15275"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmin/1.0"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmax/1.0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1814,8 +1834,6 @@
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd27222"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd00001"/>
                   <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15275"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmin/1.0"/>
-                  <rdf:li rdf:resource="https://identifiers.org/Cmax/1.0"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -4960,7 +4978,7 @@
           <speciesReference species="M_cit_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_acon__C_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_acon_C_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -4991,7 +5009,7 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_acon__C_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_acon_C_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
