@@ -13,7 +13,7 @@ mkdir $zip_package_path
 # Go through each project subfolder
 for d in ./*
 do
-  # Move the .scen files into a temporary
+  # Move the .scen/.sdc files into a temporary
   # folder so that they are not zipped together
   # into the .cna file
   if [ -d "$d" ]
@@ -24,25 +24,25 @@ do
     for f in ./*
     do
       echo $f
-      if [[ $f == *.scen ]]
+      if [[ $f == *.scen || $f == *.sdc ]]
       then
-          mkdir "../_scen_temp" -v
-          cp $f "../_scen_temp"/$f
+          mkdir "../_temp" -v
+          cp $f "../_temp"/$f
       fi
     done
 
-    # zip .cna files (without the moved .scen files)
+    # zip .cna files (without the moved files)
     package_dir=."$zip_package_path"/"${d:2}"
     mkdir $package_dir -v
     zip_path="$package_dir"/"${d:2}".cna
     zip $zip_path *
 
-    # Move - if there are any - the .scen files
+    # Move - if there are any - the .scen/.sdc files
     # into the temporary project subfolder
-    if [ -d "../_scen_temp" ]
+    if [ -d "../_temp" ]
     then
-        mv ../_scen_temp/* $package_dir
-        rm -rf "../_scen_temp"
+        mv ../_temp/* $package_dir
+        rm -rf "../_temp"
     fi
 
     cd ..
