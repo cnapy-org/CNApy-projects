@@ -4858,7 +4858,7 @@
           <speciesReference species="M_AMOB_e" stoichiometry="2e-06" constant="true"/>
           <speciesReference species="M_amp_c" stoichiometry="2.6515" constant="true"/>
           <speciesReference species="M_co2_c" stoichiometry="1.7972" constant="true"/>
-          <speciesReference species="M_coa_c" stoichiometry="4.3828" constant="true"/>
+          <speciesReference species="M_coa_c" stoichiometry="4.38276" constant="true"/>
           <speciesReference species="M_fum_c" stoichiometry="0.70838" constant="true"/>
           <speciesReference species="M_g3p_c" stoichiometry="0.054008" constant="true"/>
           <speciesReference species="M_h_c" stoichiometry="51.2225" constant="true"/>
